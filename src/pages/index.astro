@@ -1,11 +1,290 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Astro</title>
+	</head>
+	<body>
+ 
+
+	 <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+
+    header h1 {
+      font-size: 2.2em;
+      color: #3d3d75;
+    }
+
+    header h1 span {
+      color: #000;
+    }
+
+    .heading {
+      position: relative;
+      background-position: center;
+      height: 300px;
+      justify-content: center;
+      align-items: center;
+      color: rgb(218, 129, 52);
+      text-align: center;
+    }
+
+    .heading h2 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+
+    .heading p {
+      font-size: 1.2em;
+    }
+
+    .instructions {
+      background-color: #eee;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    .instructions h3 {
+      font-size: 1.8em;
+      margin-bottom: 20px;
+    }
+
+    .instructions p {
+      font-size: 1em;
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+	.prewounds {
+		font-size: 1.4em;
+	}
+
+	 .footer {
+      background-color: #eee;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    .footer h3 {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+
+    .footer p {
+      font-size: .8em;
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+        body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 40px;
+      background-color: #fff;
+      color: #222;
+    }
+
+    .steps-container {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .step-box {
+      flex: 1;
+      border: 1px solid #e0e0e0;
+      padding: 20px;
+      min-height: 150px;
+      background-color: #fafafa;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+      transition: box-shadow 0.3s ease;
+    }
+
+    .step-box:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+    }
+
+    .step-title {
+      color: goldenrod;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+    }
+
+    .step-heading {
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+ .brandlist {
+      padding: 0;
+      margin: 0;
+    }
+
+    .brandlist li {
+      list-style: none;
+      padding: 6px 10px;
+      border-radius: 4px;
+      margin-bottom: 5px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+    }
+
+    .brandlist li:hover {
+      background-color: #3b59cf;
+    }
+
+    .edu {
+      background-color: #11276f; 
+      padding: 30px 20px;
+      text-align: center;
+      color: white;
+      font-family: 'Georgia', serif;
+    }
+
+    .edu h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+    }
+
+    .edu a {
+      display: block;
+      color: goldenrod;
+      text-decoration: none;
+      margin: 8px 0;
+      font-size: 1rem;
+      
+    }
+    .hidden
+    {
+      display: none;
+    }
+
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Prewound Bobbins</h1>
+  </header>
+
+  <section class="heading">
+    <div>
+      <h2>Prewound Bobbins</h2>
+      <p>Find the right prewound bobbin for your machine.</p>
+    </div>
+  </section>
+
+  <section class="instructions">
+    <h3>Instructions</h3>
+    <p>
+     Welcome to PrewoundBobbins.com! We have compiled bobbin information for many sewing machines and longarm quilting machines. To see what style of bobbin your machine uses, scroll through the list of machines below and select the brand in the first column, then select the machine model in the second column, followed by selecting the corresponding prewound bobbins if applicable. Some machines use a unique bobbin and as such, prewound bobbins aren't available. Once you have gone through the selection process, click on a prewound bobbin result and you will be redirected to <span style="color:#8847FF;">www.superiorthreads.com</span> where you can learn more about the recommended prewound bobbins for your machine.
+    </p>
+  </section>
+
+  <section class= "prewounds">
+<img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" class="img-responsive">	<p>
+		Class 15 Prewounds 
+		</p>
+
+<img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" class="img-responsive">		<p>
+		L-Style Prewounds 
+		</p>
+<img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" class="img-responsive">		<p>
+		M-Style Prewounds 
+		</p>
+	</section>
+ 
+
+  <section class="bottom">
+	  <div class="steps-container">
+    <div class="step-box">
+      <div class="step-title">Step 1</div>
+      <div class="step-heading">Machine Brand</div>
+       <ul class="brandlist">
+         <li onclick="showModels('A1')">A1</li>
+         <li onclick="showModels('APQS')">APQS</li>
+         <li onclick="showModels('BabyLock')">BabyLock</li>
+         <li onclick="showModels('BaileyHomeQuilter')">BaileyHomeQuilter</li>
+         <li onclick="showModels('Bernette')">Bernette</li>
+      </ul>
+    </div>
+    <div class="step-box">
+      <div class="step-title">Step 2</div>
+      <div class="step-heading">Machine Model</div>
+       <ul class="model-list hidden" id="modelList">
+        
+        </ul>
+    </div>
+    <div class="step-box">
+      <div class="step-title">Step 3</div>
+      <div class="step-heading">Bobbin Style</div>
+    </div>
+    <div class="step-box">
+      <div class="step-title">Step 4</div>
+      <div class="step-heading">Superior's Prewounds</div>
+    </div>
+  </div>
+
+
+<script is:inline>
+  const modelMap = {
+    A1: ["Elite", "Elite Platinum"],
+    APQS: ["Freedom (Big Bobbin)","Freedom (Small Bobbin)", "George (Big Bobbin)", "George (Smart Bobbin)" ],
+    BabyLock: ["1550 Companion", "Alliance", "Amelia", "Anna", "Aria", "Audrey", "Aventura", "BL2300", "BL6600", "BL9"],
+    BaileyHomeQuilter: ["Pro 15", "Pro 17E"],
+    Bernette: ["Chicago 7"]
+  };
+
+  function showModels(brand) {
+    const modelList = document.getElementById("modelList");
+    modelList.innerHTML = ""; 
+    modelList.classList.remove("hidden");
+
+    modelMap[brand].forEach(model => {
+      const li = document.createElement("li");
+      li.textContent = model;
+      modelList.appendChild(li);
+    });
+  }
+</script>
+
+
+  <p>Are we missing your machine brand or model? Please let us know here.</p>
+
+	<section class="footer">
+    <h3>MORE INFORMATION</h3>
+    <p>
+		<span style="color:#8847FF;">.</span> About us<span style="color:#8847FF;">.</span>  Instructions<span style="color:#8847FF;">.</span>  Terms of Service
+    </p>
+  </section>
+
+   <div class="edu">
+    <h2>Education Articles</h2>
+    <a href="https://www.superiorthreads.com/education/bobbin-infographic">Bobbin shapes and styles</a>
+    <a href="https://www.superiorthreads.com/education/bobbin-faq">Frequently asked questions about bobbins</a>
+    <a href="https://www.superiorthreads.com/education/matching-bobbin-thread">Matching top and bobbin thread</a>
+    <a href="https://www.superiorthreads.com/education/bobbin-tension-adjusted">When should bobbin tension be adjusted?</a>
+  </div>
+</body>
+
+</html>
