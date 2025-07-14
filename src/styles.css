@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff;
+  color: #222;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 2.2em;
+  color: #3d3d75;
+}
+
+header h1 span {
+  color: #000;
+}
+
+.heading {
+  background-position: center;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(218, 129, 52);
+  text-align: center;
+}
+
+.heading h2 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+.heading p {
+  font-size: 1.2em;
+}
+
+.instructions {
+  background-color: #eee;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.instructions h3 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+.instructions p {
+  font-size: 1em;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.steps-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 1000px;
+  margin: 40px auto;
+}
+
+.step-box {
+  flex: 1;
+  border: 1px solid #e0e0e0;
+  padding: 20px;
+  min-height: 150px;
+  background-color: #fafafa;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.step-box:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.step-title {
+  color: goldenrod;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.step-heading {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.footer {
+  background-color: #eee;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer h3 {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.footer p {
+  font-size: .8em;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.edu {
+  background-color: #11276f;
+  padding: 30px 20px;
+  text-align: center;
+  color: white;
+  font-family: 'Georgia', serif;
+}
+
+.edu h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.edu a {
+  display: block;
+  color: goldenrod;
+  text-decoration: none;
+  margin: 8px 0;
+  font-size: 1rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.brandlist {
+  padding: 0;
+  margin: 0;
+}
+
+.brandlist li {
+  list-style: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.brandlist li:hover {
+  background-color: #3b59cf;
+}
