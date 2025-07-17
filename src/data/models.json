@@ -1,0 +1,9437 @@
+{
+    "models": [
+        {
+            "id": "568",
+            "name": "Elite",
+            "brand": "32"
+        },
+        {
+            "id": "569",
+            "name": "Elite Platinum",
+            "brand": "32"
+        },
+      {
+            "brand": "33",
+            "id": " 570",
+            "name": "Freedom (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 571",
+            "name": "Freedom (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 572",
+            "name": "George (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 573",
+            "name": "George (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 574",
+            "name": "Lenni (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 575",
+            "name": "Lenni (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 1621",
+            "name": "Liberty (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 1620",
+            "name": "Liberty (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 576",
+            "name": "Lucey (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 577",
+            "name": "Lucey (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 578",
+            "name": "Millennium (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 579",
+            "name": "Millennium (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 2385",
+            "name": "Ultimate I (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 2386",
+            "name": "Ultimate I (Smart Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 2316",
+            "name": "Ultimate II (Big Bobbin)"
+        },
+        {
+            "brand": "33",
+            "id": " 2315",
+            "name": "Ultimate II (Smart Bobbin)"
+        },
+        {
+      "brand": "34",
+      "id": " 1625",
+      "name": "1550 Companion"
+    },
+    {
+      "brand": "34",
+      "id": " 1522",
+      "name": "Alliance"
+    },
+    {
+      "brand": "34",
+      "id": " 1703",
+      "name": "Amelia"
+    },
+    {
+      "brand": "34",
+      "id": " 580",
+      "name": "Anna"
+    },
+    {
+      "brand": "34",
+      "id": " 581",
+      "name": "Aria"
+    },
+    {
+      "brand": "34",
+      "id": " 582",
+      "name": "Audrey"
+    },
+    {
+      "brand": "34",
+      "id": " 1599",
+      "name": "Aventura"
+    },
+    {
+      "brand": "34",
+      "id": " 2333",
+      "name": "BL2300"
+    },
+    {
+      "brand": "34",
+      "id": " 1702",
+      "name": "BL6600"
+    },
+    {
+      "brand": "34",
+      "id": " 583",
+      "name": "BL9"
+    },
+    {
+      "brand": "34",
+      "id": " 1624",
+      "name": "Companion"
+    },
+    {
+      "brand": "34",
+      "id": " 2419",
+      "name": "Coronet"
+    },
+    {
+      "brand": "34",
+      "id": " 584",
+      "name": "Crafter\u0027s Choice"
+    },
+    {
+      "brand": "34",
+      "id": " 1622",
+      "name": "Creative Pro (BL37, BL40)"
+    },
+    {
+      "brand": "34",
+      "id": " 585",
+      "name": "Crescendo"
+    },
+    {
+      "brand": "34",
+      "id": " 586",
+      "name": "Crown Jewel"
+    },
+    {
+      "brand": "34",
+      "id": " 587",
+      "name": "Decorator\u0027s Choice"
+    },
+    {
+      "brand": "34",
+      "id": " 1623",
+      "name": "Design Pro"
+    },
+    {
+      "brand": "34",
+      "id": " 1523",
+      "name": "Destiny"
+    },
+    {
+      "brand": "34",
+      "id": " 588",
+      "name": "Elizabeth"
+    },
+    {
+      "brand": "34",
+      "id": " 589",
+      "name": "Ellageo (BLL2)"
+    },
+    {
+      "brand": "34",
+      "id": " 590",
+      "name": "Ellageo (ESG3)"
+    },
+    {
+      "brand": "34",
+      "id": " 591",
+      "name": "Ellageo Plus"
+    },
+    {
+      "brand": "34",
+      "id": " 1699",
+      "name": "Ellageo Plus (BLL2)"
+    },
+    {
+      "brand": "34",
+      "id": " 592",
+      "name": "Ellegante"
+    },
+    {
+      "brand": "34",
+      "id": " 1671",
+      "name": "Ellisimo"
+    },
+    {
+      "brand": "34",
+      "id": " 593",
+      "name": "Ellisimo Gold"
+    },
+    {
+      "brand": "34",
+      "id": " 594",
+      "name": "Ellure (BLR, BLR2, BLR3)"
+    },
+    {
+      "brand": "34",
+      "id": " 595",
+      "name": "Ellure (ESL)"
+    },
+    {
+      "brand": "34",
+      "id": " 596",
+      "name": "Ellure Plus"
+    },
+    {
+      "brand": "34",
+      "id": " 597",
+      "name": "Embroidery Professional"
+    },
+    {
+      "brand": "34",
+      "id": " 598",
+      "name": "EMORE"
+    },
+    {
+      "brand": "34",
+      "id": " 599",
+      "name": "Encore"
+    },
+    {
+      "brand": "34",
+      "id": " 600",
+      "name": "Endurance 6 needle"
+    },
+    {
+      "brand": "34",
+      "id": " 2350",
+      "name": "Endurance II"
+    },
+    {
+      "brand": "34",
+      "id": " 601",
+      "name": "Enterprise 10-needle"
+    },
+    {
+      "brand": "34",
+      "id": " 602",
+      "name": "Esante (BLN, BLN2)"
+    },
+    {
+      "brand": "34",
+      "id": " 603",
+      "name": "Esante (ESI, ESI2, ESE, ESE2)"
+    },
+    {
+      "brand": "34",
+      "id": " 604",
+      "name": "Espire"
+    },
+    {
+      "brand": "34",
+      "id": " 2371",
+      "name": "Flourish"
+    },
+    {
+      "brand": "34",
+      "id": " 605",
+      "name": "Grace"
+    },
+    {
+      "brand": "34",
+      "id": " 606",
+      "name": "Intrique"
+    },
+    {
+      "brand": "34",
+      "id": " 607",
+      "name": "Jane"
+    },
+    {
+      "brand": "34",
+      "id": " 2353",
+      "name": "Jewel"
+    },
+    {
+      "brand": "34",
+      "id": " 608",
+      "name": "Journey"
+    },
+    {
+      "brand": "34",
+      "id": " 2336",
+      "name": "Katherine"
+    },
+    {
+      "brand": "34",
+      "id": " 2338",
+      "name": "Lyric"
+    },
+    {
+      "brand": "34",
+      "id": " 1626",
+      "name": "Maria"
+    },
+    {
+      "brand": "34",
+      "id": " 609",
+      "name": "Melody"
+    },
+    {
+      "brand": "34",
+      "id": " 610",
+      "name": "Molly"
+    },
+    {
+      "brand": "34",
+      "id": " 611",
+      "name": "Quest"
+    },
+    {
+      "brand": "34",
+      "id": " 1642",
+      "name": "Quest Plus"
+    },
+    {
+      "brand": "34",
+      "id": " 612",
+      "name": "Quilter\u0027s Choice (BLQC)"
+    },
+    {
+      "brand": "34",
+      "id": " 613",
+      "name": "Quilter\u0027s Choice (BLQC2)"
+    },
+    {
+      "brand": "34",
+      "id": " 614",
+      "name": "Quilter\u0027s Choice Pro (BLQP)"
+    },
+    {
+      "brand": "34",
+      "id": " 615",
+      "name": "Rachel"
+    },
+    {
+      "brand": "34",
+      "id": " 616",
+      "name": "Sashiko/Sashiko2"
+    },
+    {
+      "brand": "34",
+      "id": " 617",
+      "name": "Serenade"
+    },
+    {
+      "brand": "34",
+      "id": " 618",
+      "name": "Sofia/Sofia2"
+    },
+    {
+      "brand": "34",
+      "id": " 2337",
+      "name": "Soprano"
+    },
+    {
+      "brand": "34",
+      "id": " 619",
+      "name": "Spirit"
+    },
+    {
+      "brand": "34",
+      "id": " 620",
+      "name": "Symphony"
+    },
+    {
+      "brand": "34",
+      "id": " 621",
+      "name": "Tempo"
+    },
+    {
+      "brand": "34",
+      "id": " 622",
+      "name": "Tiara"
+    },
+    {
+      "brand": "34",
+      "id": " 2366",
+      "name": "Tiara II"
+    },
+    {
+      "brand": "34",
+      "id": " 623",
+      "name": "Unity"
+    },
+    {
+      "brand": "34",
+      "id": " 2418",
+      "name": "Valiant"
+    },
+     {
+      "brand": "64",
+      "id": " 2334",
+      "name": "Pro 15"
+    },
+    {
+      "brand": "64",
+      "id": " 2365",
+      "name": "Pro 17E"
+    },
+    {
+      "brand": "61",
+      "id": " 1707",
+      "name": "Chicago 7"
+    },
+     {
+      "brand": "35",
+      "id": " 691",
+      "name": "1000"
+    },
+    {
+      "brand": "35",
+      "id": " 692",
+      "name": "1001"
+    },
+    {
+      "brand": "35",
+      "id": " 693",
+      "name": "1004"
+    },
+    {
+      "brand": "35",
+      "id": " 694",
+      "name": "1005"
+    },
+    {
+      "brand": "35",
+      "id": " 695",
+      "name": "1006"
+    },
+    {
+      "brand": "35",
+      "id": " 696",
+      "name": "1008"
+    },
+    {
+      "brand": "35",
+      "id": " 697",
+      "name": "1010"
+    },
+    {
+      "brand": "35",
+      "id": " 698",
+      "name": "1011"
+    },
+    {
+      "brand": "35",
+      "id": " 699",
+      "name": "1015"
+    },
+    {
+      "brand": "35",
+      "id": " 700",
+      "name": "1020"
+    },
+    {
+      "brand": "35",
+      "id": " 701",
+      "name": "1030"
+    },
+    {
+      "brand": "35",
+      "id": " 702",
+      "name": "1031"
+    },
+    {
+      "brand": "35",
+      "id": " 624",
+      "name": "108"
+    },
+    {
+      "brand": "35",
+      "id": " 703",
+      "name": "1080"
+    },
+    {
+      "brand": "35",
+      "id": " 704",
+      "name": "1090"
+    },
+    {
+      "brand": "35",
+      "id": " 710",
+      "name": "1090S"
+    },
+    {
+      "brand": "35",
+      "id": " 705",
+      "name": "1120"
+    },
+    {
+      "brand": "35",
+      "id": " 706",
+      "name": "1130"
+    },
+    {
+      "brand": "35",
+      "id": " 625",
+      "name": "120"
+    },
+    {
+      "brand": "35",
+      "id": " 707",
+      "name": "1230"
+    },
+    {
+      "brand": "35",
+      "id": " 626",
+      "name": "125"
+    },
+    {
+      "brand": "35",
+      "id": " 1698",
+      "name": "125S"
+    },
+    {
+      "brand": "35",
+      "id": " 708",
+      "name": "1260"
+    },
+    {
+      "brand": "35",
+      "id": " 627",
+      "name": "130"
+    },
+    {
+      "brand": "35",
+      "id": " 628",
+      "name": "131"
+    },
+    {
+      "brand": "35",
+      "id": " 629",
+      "name": "135"
+    },
+    {
+      "brand": "35",
+      "id": " 630",
+      "name": "140"
+    },
+    {
+      "brand": "35",
+      "id": " 631",
+      "name": "145"
+    },
+    {
+      "brand": "35",
+      "id": " 632",
+      "name": "150"
+    },
+    {
+      "brand": "35",
+      "id": " 633",
+      "name": "153"
+    },
+    {
+      "brand": "35",
+      "id": " 709",
+      "name": "1530"
+    },
+    {
+      "brand": "35",
+      "id": " 634",
+      "name": "155"
+    },
+    {
+      "brand": "35",
+      "id": " 635",
+      "name": "160"
+    },
+    {
+      "brand": "35",
+      "id": " 636",
+      "name": "163"
+    },
+    {
+      "brand": "35",
+      "id": " 711",
+      "name": "1630 Inspiration"
+    },
+    {
+      "brand": "35",
+      "id": " 637",
+      "name": "165"
+    },
+    {
+      "brand": "35",
+      "id": " 2356",
+      "name": "170"
+    },
+    {
+      "brand": "35",
+      "id": " 2436",
+      "name": "180e"
+    },
+    {
+      "brand": "35",
+      "id": " 712",
+      "name": "1850 Inspiration"
+    },
+    {
+      "brand": "35",
+      "id": " 1708",
+      "name": "200"
+    },
+    {
+      "brand": "35",
+      "id": " 2357",
+      "name": "210"
+    },
+    {
+      "brand": "35",
+      "id": " 638",
+      "name": "220"
+    },
+    {
+      "brand": "35",
+      "id": " 639",
+      "name": "230"
+    },
+    {
+      "brand": "35",
+      "id": " 640",
+      "name": "240"
+    },
+    {
+      "brand": "35",
+      "id": " 641",
+      "name": "330"
+    },
+    {
+      "brand": "35",
+      "id": " 642",
+      "name": "340"
+    },
+    {
+      "brand": "35",
+      "id": " 643",
+      "name": "350"
+    },
+    {
+      "brand": "35",
+      "id": " 644",
+      "name": "430"
+    },
+    {
+      "brand": "35",
+      "id": " 1709",
+      "name": "435"
+    },
+    {
+      "brand": "35",
+      "id": " 645",
+      "name": "440"
+    },
+    {
+      "brand": "35",
+      "id": " 713",
+      "name": "440QE"
+    },
+    {
+      "brand": "35",
+      "id": " 646",
+      "name": "450"
+    },
+    {
+      "brand": "35",
+      "id": " 2463",
+      "name": "475QE"
+    },
+    {
+      "brand": "35",
+      "id": " 647",
+      "name": "530"
+    },
+    {
+      "brand": "35",
+      "id": " 648",
+      "name": "532"
+    },
+    {
+      "brand": "35",
+      "id": " 649",
+      "name": "534"
+    },
+    {
+      "brand": "35",
+      "id": " 650",
+      "name": "550"
+    },
+    {
+      "brand": "35",
+      "id": " 1712",
+      "name": "550QE"
+    },
+    {
+      "brand": "35",
+      "id": " 651",
+      "name": "560"
+    },
+    {
+      "brand": "35",
+      "id": " 652",
+      "name": "580"
+    },
+    {
+      "brand": "35",
+      "id": " 653",
+      "name": "600"
+    },
+    {
+      "brand": "35",
+      "id": " 654",
+      "name": "610"
+    },
+    {
+      "brand": "35",
+      "id": " 655",
+      "name": "630"
+    },
+    {
+      "brand": "35",
+      "id": " 714",
+      "name": "630E"
+    },
+    {
+      "brand": "35",
+      "id": " 2402",
+      "name": "635"
+    },
+    {
+      "brand": "35",
+      "id": " 1710",
+      "name": "640"
+    },
+    {
+      "brand": "35",
+      "id": " 1713",
+      "name": "640 E"
+    },
+    {
+      "brand": "35",
+      "id": " 656",
+      "name": "642"
+    },
+    {
+      "brand": "35",
+      "id": " 657",
+      "name": "644"
+    },
+    {
+      "brand": "35",
+      "id": " 658",
+      "name": "700"
+    },
+    {
+      "brand": "35",
+      "id": " 659",
+      "name": "707"
+    },
+    {
+      "brand": "35",
+      "id": " 660",
+      "name": "708"
+    },
+    {
+      "brand": "35",
+      "id": " 661",
+      "name": "709"
+    },
+    {
+      "brand": "35",
+      "id": " 662",
+      "name": "710"
+    },
+    {
+      "brand": "35",
+      "id": " 663",
+      "name": "717"
+    },
+    {
+      "brand": "35",
+      "id": " 664",
+      "name": "718"
+    },
+    {
+      "brand": "35",
+      "id": " 665",
+      "name": "719"
+    },
+    {
+      "brand": "35",
+      "id": " 666",
+      "name": "730"
+    },
+    {
+      "brand": "35",
+      "id": " 667",
+      "name": "731"
+    },
+    {
+      "brand": "35",
+      "id": " 668",
+      "name": "732"
+    },
+    {
+      "brand": "35",
+      "id": " 1681",
+      "name": "735"
+    },
+    {
+      "brand": "35",
+      "id": " 1682",
+      "name": "740"
+    },
+    {
+      "brand": "35",
+      "id": " 669",
+      "name": "750"
+    },
+    {
+      "brand": "35",
+      "id": " 1683",
+      "name": "770 QE"
+    },
+    {
+      "brand": "35",
+      "id": " 670",
+      "name": "780"
+    },
+    {
+      "brand": "35",
+      "id": " 1684",
+      "name": "790"
+    },
+    {
+      "brand": "35",
+      "id": " 671",
+      "name": "800"
+    },
+    {
+      "brand": "35",
+      "id": " 672",
+      "name": "801"
+    },
+    {
+      "brand": "35",
+      "id": " 673",
+      "name": "802"
+    },
+    {
+      "brand": "35",
+      "id": " 674",
+      "name": "803"
+    },
+    {
+      "brand": "35",
+      "id": " 675",
+      "name": "807"
+    },
+    {
+      "brand": "35",
+      "id": " 676",
+      "name": "808"
+    },
+    {
+      "brand": "35",
+      "id": " 677",
+      "name": "809"
+    },
+    {
+      "brand": "35",
+      "id": " 678",
+      "name": "810"
+    },
+    {
+      "brand": "35",
+      "id": " 679",
+      "name": "811"
+    },
+    {
+      "brand": "35",
+      "id": " 680",
+      "name": "817"
+    },
+    {
+      "brand": "35",
+      "id": " 681",
+      "name": "818"
+    },
+    {
+      "brand": "35",
+      "id": " 682",
+      "name": "819"
+    },
+    {
+      "brand": "35",
+      "id": " 683",
+      "name": "820"
+    },
+    {
+      "brand": "35",
+      "id": " 715",
+      "name": "830 (New Model)"
+    },
+    {
+      "brand": "35",
+      "id": " 716",
+      "name": "830 (Old Model)"
+    },
+    {
+      "brand": "35",
+      "id": " 684",
+      "name": "831"
+    },
+    {
+      "brand": "35",
+      "id": " 685",
+      "name": "832"
+    },
+    {
+      "brand": "35",
+      "id": " 1685",
+      "name": "880"
+    },
+    {
+      "brand": "35",
+      "id": " 686",
+      "name": "900"
+    },
+    {
+      "brand": "35",
+      "id": " 687",
+      "name": "910"
+    },
+    {
+      "brand": "35",
+      "id": " 688",
+      "name": "930"
+    },
+    {
+      "brand": "35",
+      "id": " 689",
+      "name": "931"
+    },
+    {
+      "brand": "35",
+      "id": " 690",
+      "name": "932"
+    },
+    {
+      "brand": "35",
+      "id": " 1711",
+      "name": "950"
+    },
+    {
+      "brand": "35",
+      "id": " 1631",
+      "name": "Activa 130"
+    },
+    {
+      "brand": "35",
+      "id": " 717",
+      "name": "Activa 210"
+    },
+    {
+      "brand": "35",
+      "id": " 1629",
+      "name": "Activa 230"
+    },
+    {
+      "brand": "35",
+      "id": " 1630",
+      "name": "Activa 240"
+    },
+    {
+      "brand": "35",
+      "id": " 718",
+      "name": "Artista 165"
+    },
+    {
+      "brand": "35",
+      "id": " 719",
+      "name": "Artista 170"
+    },
+    {
+      "brand": "35",
+      "id": " 720",
+      "name": "Artista 180"
+    },
+    {
+      "brand": "35",
+      "id": " 721",
+      "name": "Artista 185"
+    },
+    {
+      "brand": "35",
+      "id": " 722",
+      "name": "Artista 185QEE"
+    },
+    {
+      "brand": "35",
+      "id": " 723",
+      "name": "Artista 190"
+    },
+    {
+      "brand": "35",
+      "id": " 724",
+      "name": "Artista 200E"
+    },
+    {
+      "brand": "35",
+      "id": " 725",
+      "name": "Artista 580"
+    },
+    {
+      "brand": "35",
+      "id": " 726",
+      "name": "Artista 630E"
+    },
+    {
+      "brand": "35",
+      "id": " 2403",
+      "name": "Artista 635"
+    },
+    {
+      "brand": "35",
+      "id": " 727",
+      "name": "Artista 640"
+    },
+    {
+      "brand": "35",
+      "id": " 728",
+      "name": "Artista 640E"
+    },
+    {
+      "brand": "35",
+      "id": " 729",
+      "name": "Artista 730"
+    },
+    {
+      "brand": "35",
+      "id": " 730",
+      "name": "Aurora 430"
+    },
+    {
+      "brand": "35",
+      "id": " 731",
+      "name": "Aurora 430QEE"
+    },
+    {
+      "brand": "35",
+      "id": " 732",
+      "name": "Aurora 435"
+    },
+    {
+      "brand": "35",
+      "id": " 733",
+      "name": "Aurora 440"
+    },
+    {
+      "brand": "35",
+      "id": " 2398",
+      "name": "Aurora 440 QE"
+    },
+    {
+      "brand": "35",
+      "id": " 734",
+      "name": "Aurora 440QEE"
+    },
+    {
+      "brand": "35",
+      "id": " 735",
+      "name": "Aurora 450"
+    },
+    {
+      "brand": "35",
+      "id": " 736",
+      "name": "B215"
+    },
+    {
+      "brand": "35",
+      "id": " 2388",
+      "name": "B350"
+    },
+    {
+      "brand": "35",
+      "id": " 737",
+      "name": "B380"
+    },
+    {
+      "brand": "35",
+      "id": " 738",
+      "name": "B560"
+    },
+    {
+      "brand": "35",
+      "id": " 2354",
+      "name": "B570 QE"
+    },
+    {
+      "brand": "35",
+      "id": " 2421",
+      "name": "B765"
+    },
+    {
+      "brand": "35",
+      "id": " 739",
+      "name": "Bernette 730E"
+    },
+    {
+      "brand": "35",
+      "id": " 740",
+      "name": "Bernette 740E"
+    },
+    {
+      "brand": "35",
+      "id": " 2329",
+      "name": "Bernette 80E"
+    },
+    {
+      "brand": "35",
+      "id": " 741",
+      "name": "Deco 300"
+    },
+    {
+      "brand": "35",
+      "id": " 742",
+      "name": "Deco 330"
+    },
+    {
+      "brand": "35",
+      "id": " 743",
+      "name": "Deco 340"
+    },
+    {
+      "brand": "35",
+      "id": " 744",
+      "name": "Deco 350"
+    },
+    {
+      "brand": "35",
+      "id": " 745",
+      "name": "Deco 500"
+    },
+    {
+      "brand": "35",
+      "id": " 746",
+      "name": "Deco 600"
+    },
+    {
+      "brand": "35",
+      "id": " 747",
+      "name": "Deco 650"
+    },
+    {
+      "brand": "35",
+      "id": " 748",
+      "name": "Deco 930"
+    },
+    {
+      "brand": "35",
+      "id": " 1693",
+      "name": "E 16"
+    },
+    {
+      "brand": "35",
+      "id": " 1614",
+      "name": "Q20"
+    },
+    {
+      "brand": "35",
+      "id": " 1615",
+      "name": "Q24"
+    },
+    {
+      "brand": "35",
+      "id": " 2387",
+      "name": "QE 550"
+    },
+    {
+      "brand": "35",
+      "id": " 2389",
+      "name": "Virtuosa 150"
+    },
+    {
+      "brand": "35",
+      "id": " 1633",
+      "name": "Virtuosa 153"
+    },
+    {
+      "brand": "35",
+      "id": " 1632",
+      "name": "Virtuosa 160"
+    },
+    {
+      "brand": "58",
+      "id": "  1598",
+      "name": "Mid-Arm"
+    },
+    {
+      "brand": "36",
+      "id": "  749",
+      "name": "180"
+    },
+    {
+      "brand": "36",
+      "id": "  750",
+      "name": "200"
+    },
+    {
+      "brand": "36",
+      "id": "  754",
+      "name": "300S"
+    },
+    {
+      "brand": "36",
+      "id": "  755",
+      "name": "400D"
+    },
+    {
+      "brand": "36",
+      "id": "  752",
+      "name": "4500"
+    },
+    {
+      "brand": "36",
+      "id": "  751",
+      "name": "600"
+    },
+    {
+      "brand": "36",
+      "id": "  753",
+      "name": "8200"
+    },
+    {
+      "brand": "36",
+      "id": "  2391",
+      "name": "8550D"
+    },
+    {
+      "brand": "36",
+      "id": "  1689",
+      "name": "888-V14"
+    },
+    {
+      "brand": "36",
+      "id": "  1690",
+      "name": "990D"
+    },
+    {
+      "brand": "36",
+      "id": "  756",
+      "name": "BB 370"
+    },
+    {
+      "brand": "36",
+      "id": "  757",
+      "name": "BC 1000"
+    },
+    {
+      "brand": "36",
+      "id": "  758",
+      "name": "BM 2800"
+    },
+    {
+      "brand": "36",
+      "id": "  759",
+      "name": "BP 2100"
+    },
+    {
+      "brand": "36",
+      "id": "  760",
+      "name": "BX2925PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  761",
+      "name": "CE 4000"
+    },
+    {
+      "brand": "36",
+      "id": "  762",
+      "name": "CE 4400"
+    },
+    {
+      "brand": "36",
+      "id": "  763",
+      "name": "CE 5000PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  764",
+      "name": "CE 5500PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  765",
+      "name": "CE 7070PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  766",
+      "name": "CE 8080PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  767",
+      "name": "CE1100PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  768",
+      "name": "CP 6500"
+    },
+    {
+      "brand": "36",
+      "id": "  769",
+      "name": "CP 7500"
+    },
+    {
+      "brand": "36",
+      "id": "  2439",
+      "name": "CP2410"
+    },
+    {
+      "brand": "36",
+      "id": "  770",
+      "name": "CS 100T"
+    },
+    {
+      "brand": "36",
+      "id": "  771",
+      "name": "CS 5055 PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  772",
+      "name": "CS 6000"
+    },
+    {
+      "brand": "36",
+      "id": "  773",
+      "name": "CS 6000B"
+    },
+    {
+      "brand": "36",
+      "id": "  774",
+      "name": "CS 6000i"
+    },
+    {
+      "brand": "36",
+      "id": "  775",
+      "name": "CS 6000T"
+    },
+    {
+      "brand": "36",
+      "id": "  776",
+      "name": "CS 8072"
+    },
+    {
+      "brand": "36",
+      "id": "  777",
+      "name": "CS 8150"
+    },
+    {
+      "brand": "36",
+      "id": "  778",
+      "name": "CS8800PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  779",
+      "name": "CX205LA"
+    },
+    {
+      "brand": "36",
+      "id": "  780",
+      "name": "Designio DZ3000"
+    },
+    {
+      "brand": "36",
+      "id": "  781",
+      "name": "Designio DZ820E"
+    },
+    {
+      "brand": "36",
+      "id": "  1686",
+      "name": "Designio Series DZ2400"
+    },
+    {
+      "brand": "36",
+      "id": "  1691",
+      "name": "Dream Machine XV8500D"
+    },
+    {
+      "brand": "36",
+      "id": "  782",
+      "name": "DreamCreator VQ2400"
+    },
+    {
+      "brand": "36",
+      "id": "  783",
+      "name": "DreamCreator XE VM5100"
+    },
+    {
+      "brand": "36",
+      "id": "  784",
+      "name": "DreamMaker XE VE2200"
+    },
+    {
+      "brand": "36",
+      "id": "  785",
+      "name": "DreamWeaver VQ3000"
+    },
+    {
+      "brand": "36",
+      "id": "  786",
+      "name": "DreamWeaver XE VM6200D"
+    },
+    {
+      "brand": "36",
+      "id": "  787",
+      "name": "Duetta 2 4750D"
+    },
+    {
+      "brand": "36",
+      "id": "  788",
+      "name": "Duetta 4500D"
+    },
+    {
+      "brand": "36",
+      "id": "  789",
+      "name": "Entrepreneur PR650"
+    },
+    {
+      "brand": "36",
+      "id": "  790",
+      "name": "Entrepreneur PR650e"
+    },
+    {
+      "brand": "36",
+      "id": "  791",
+      "name": "Entrepreneur PR655"
+    },
+    {
+      "brand": "36",
+      "id": "  792",
+      "name": "Entrepreneur Pro PR1000"
+    },
+    {
+      "brand": "36",
+      "id": "  793",
+      "name": "Entrepreneur Pro PR1000e"
+    },
+    {
+      "brand": "36",
+      "id": "  794",
+      "name": "ES 2000"
+    },
+    {
+      "brand": "36",
+      "id": "  795",
+      "name": "EX 660"
+    },
+    {
+      "brand": "36",
+      "id": "  2369",
+      "name": "FS130QC"
+    },
+    {
+      "brand": "36",
+      "id": "  2362",
+      "name": "GS2700"
+    },
+    {
+      "brand": "36",
+      "id": "  796",
+      "name": "HC-1850"
+    },
+    {
+      "brand": "36",
+      "id": "  797",
+      "name": "HE 1"
+    },
+    {
+      "brand": "36",
+      "id": "  798",
+      "name": "HE 120"
+    },
+    {
+      "brand": "36",
+      "id": "  799",
+      "name": "HE 240"
+    },
+    {
+      "brand": "36",
+      "id": "  800",
+      "name": "HS 2000"
+    },
+    {
+      "brand": "36",
+      "id": "  801",
+      "name": "HS 2500"
+    },
+    {
+      "brand": "36",
+      "id": "  2440",
+      "name": "HS 3000"
+    },
+    {
+      "brand": "36",
+      "id": "  802",
+      "name": "Innovis 1000"
+    },
+    {
+      "brand": "36",
+      "id": "  803",
+      "name": "Innovis 1200"
+    },
+    {
+      "brand": "36",
+      "id": "  804",
+      "name": "Innovis 1250D"
+    },
+    {
+      "brand": "36",
+      "id": "  805",
+      "name": "Innovis 1500D"
+    },
+    {
+      "brand": "36",
+      "id": "  806",
+      "name": "Innovis 2500D"
+    },
+    {
+      "brand": "36",
+      "id": "  807",
+      "name": "Innovis 2800D"
+    },
+    {
+      "brand": "36",
+      "id": "  808",
+      "name": "Innovis 40"
+    },
+    {
+      "brand": "36",
+      "id": "  809",
+      "name": "Innovis 4000D"
+    },
+    {
+      "brand": "36",
+      "id": "  810",
+      "name": "Innovis 4000DLTD"
+    },
+    {
+      "brand": "36",
+      "id": "  811",
+      "name": "Innovis 4540D"
+    },
+    {
+      "brand": "36",
+      "id": "  1715",
+      "name": "Innovis 5100"
+    },
+    {
+      "brand": "36",
+      "id": "  2368",
+      "name": "Innovis 6000D"
+    },
+    {
+      "brand": "36",
+      "id": "  2375",
+      "name": "Innovis 750E"
+    },
+    {
+      "brand": "36",
+      "id": "  812",
+      "name": "Innovis 80"
+    },
+    {
+      "brand": "36",
+      "id": "  813",
+      "name": "Innovis 900D"
+    },
+    {
+      "brand": "36",
+      "id": "  814",
+      "name": "Innovis 950D"
+    },
+    {
+      "brand": "36",
+      "id": "  815",
+      "name": "Innovis 990D"
+    },
+    {
+      "brand": "36",
+      "id": "  816",
+      "name": "Innovis NQ1300PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  817",
+      "name": "Innovis NQ3500D"
+    },
+    {
+      "brand": "36",
+      "id": "  818",
+      "name": "Innovis NQ700PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  819",
+      "name": "Innovis NQ900PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  2437",
+      "name": "Innovis NV800e"
+    },
+    {
+      "brand": "36",
+      "id": "  820",
+      "name": "Innovis NX 570Q"
+    },
+    {
+      "brand": "36",
+      "id": "  821",
+      "name": "Isodor Innovis 5000"
+    },
+    {
+      "brand": "36",
+      "id": "  822",
+      "name": "JX2517"
+    },
+    {
+      "brand": "36",
+      "id": "  1716",
+      "name": "Laura Ashley"
+    },
+    {
+      "brand": "36",
+      "id": "  823",
+      "name": "Laura Ashley CX155LA"
+    },
+    {
+      "brand": "36",
+      "id": "  1696",
+      "name": "Laura Ashley Innovis NX-800"
+    },
+    {
+      "brand": "36",
+      "id": "  1695",
+      "name": "Laura Ashley Innovis NX2000"
+    },
+    {
+      "brand": "36",
+      "id": "  824",
+      "name": "LB 6770 PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  825",
+      "name": "LB 6800 PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  826",
+      "name": "LB 6800THRD"
+    },
+    {
+      "brand": "36",
+      "id": "  827",
+      "name": "LB2600i"
+    },
+    {
+      "brand": "36",
+      "id": "  828",
+      "name": "LS"
+    },
+    {
+      "brand": "36",
+      "id": "  829",
+      "name": "LS 1217"
+    },
+    {
+      "brand": "36",
+      "id": "  830",
+      "name": "LS 2125i"
+    },
+    {
+      "brand": "36",
+      "id": "  2390",
+      "name": "LS 2150"
+    },
+    {
+      "brand": "36",
+      "id": "  831",
+      "name": "LS 30"
+    },
+    {
+      "brand": "36",
+      "id": "  832",
+      "name": "LS 590"
+    },
+    {
+      "brand": "36",
+      "id": "  833",
+      "name": "LS2125"
+    },
+    {
+      "brand": "36",
+      "id": "  834",
+      "name": "LS2400"
+    },
+    {
+      "brand": "36",
+      "id": "  835",
+      "name": "LX 2500"
+    },
+    {
+      "brand": "36",
+      "id": "  836",
+      "name": "LX 2763"
+    },
+    {
+      "brand": "36",
+      "id": "  837",
+      "name": "LX 3125"
+    },
+    {
+      "brand": "36",
+      "id": "  838",
+      "name": "LX 3125E"
+    },
+    {
+      "brand": "36",
+      "id": "  839",
+      "name": "LX 3850"
+    },
+    {
+      "brand": "36",
+      "id": "  1697",
+      "name": "Nouvelle 1500S"
+    },
+    {
+      "brand": "36",
+      "id": "  2417",
+      "name": "NQ1400E"
+    },
+    {
+      "brand": "36",
+      "id": "  2438",
+      "name": "NS35"
+    },
+    {
+      "brand": "36",
+      "id": "  2409",
+      "name": "NV6750D"
+    },
+    {
+      "brand": "36",
+      "id": "  840",
+      "name": "NX 200"
+    },
+    {
+      "brand": "36",
+      "id": "  841",
+      "name": "NX 250"
+    },
+    {
+      "brand": "36",
+      "id": "  842",
+      "name": "NX 400"
+    },
+    {
+      "brand": "36",
+      "id": "  843",
+      "name": "NX 400Q"
+    },
+    {
+      "brand": "36",
+      "id": "  844",
+      "name": "NX 450"
+    },
+    {
+      "brand": "36",
+      "id": "  845",
+      "name": "NX 450Q"
+    },
+    {
+      "brand": "36",
+      "id": "  846",
+      "name": "NX 600"
+    },
+    {
+      "brand": "36",
+      "id": "  847",
+      "name": "NX 650Q"
+    },
+    {
+      "brand": "36",
+      "id": "  848",
+      "name": "Opus 191"
+    },
+    {
+      "brand": "36",
+      "id": "  849",
+      "name": "Pacesetter PS 21"
+    },
+    {
+      "brand": "36",
+      "id": "  850",
+      "name": "Pacesetter PS 2700"
+    },
+    {
+      "brand": "36",
+      "id": "  851",
+      "name": "Pacesetter PS 3700"
+    },
+    {
+      "brand": "36",
+      "id": "  852",
+      "name": "PC 210"
+    },
+    {
+      "brand": "36",
+      "id": "  853",
+      "name": "PC 210PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  854",
+      "name": "PC 2800"
+    },
+    {
+      "brand": "36",
+      "id": "  855",
+      "name": "PC 3000"
+    },
+    {
+      "brand": "36",
+      "id": "  856",
+      "name": "PC 420"
+    },
+    {
+      "brand": "36",
+      "id": "  857",
+      "name": "PC 420PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  858",
+      "name": "PC 6000"
+    },
+    {
+      "brand": "36",
+      "id": "  859",
+      "name": "PC 6500"
+    },
+    {
+      "brand": "36",
+      "id": "  860",
+      "name": "PC 7000"
+    },
+    {
+      "brand": "36",
+      "id": "  861",
+      "name": "PC 7500"
+    },
+    {
+      "brand": "36",
+      "id": "  862",
+      "name": "PC 8200"
+    },
+    {
+      "brand": "36",
+      "id": "  863",
+      "name": "PC 8500"
+    },
+    {
+      "brand": "36",
+      "id": "  864",
+      "name": "PC 8500D"
+    },
+    {
+      "brand": "36",
+      "id": "  865",
+      "name": "PE - 400D"
+    },
+    {
+      "brand": "36",
+      "id": "  866",
+      "name": "PE - 500"
+    },
+    {
+      "brand": "36",
+      "id": "  867",
+      "name": "PE - 700"
+    },
+    {
+      "brand": "36",
+      "id": "  868",
+      "name": "PE - 700II"
+    },
+    {
+      "brand": "36",
+      "id": "  869",
+      "name": "PE - 750D"
+    },
+    {
+      "brand": "36",
+      "id": "  870",
+      "name": "PE - 770"
+    },
+    {
+      "brand": "36",
+      "id": "  871",
+      "name": "PE - 780D"
+    },
+    {
+      "brand": "36",
+      "id": "  872",
+      "name": "PE 100"
+    },
+    {
+      "brand": "36",
+      "id": "  873",
+      "name": "PE 150"
+    },
+    {
+      "brand": "36",
+      "id": "  874",
+      "name": "PE 150V"
+    },
+    {
+      "brand": "36",
+      "id": "  875",
+      "name": "PE 170D"
+    },
+    {
+      "brand": "36",
+      "id": "  876",
+      "name": "PE 180"
+    },
+    {
+      "brand": "36",
+      "id": "  877",
+      "name": "PE 180D"
+    },
+    {
+      "brand": "36",
+      "id": "  878",
+      "name": "PE 190"
+    },
+    {
+      "brand": "36",
+      "id": "  879",
+      "name": "PE 200"
+    },
+    {
+      "brand": "36",
+      "id": "  880",
+      "name": "PE 300"
+    },
+    {
+      "brand": "36",
+      "id": "  881",
+      "name": "PE 300S"
+    },
+    {
+      "brand": "36",
+      "id": "  1714",
+      "name": "Persona"
+    },
+    {
+      "brand": "36",
+      "id": "  882",
+      "name": "PQ 1500S"
+    },
+    {
+      "brand": "36",
+      "id": "  2291",
+      "name": "PQ1500"
+    },
+    {
+      "brand": "36",
+      "id": "  883",
+      "name": "PR - 1000"
+    },
+    {
+      "brand": "36",
+      "id": "  884",
+      "name": "PR - 600"
+    },
+    {
+      "brand": "36",
+      "id": "  885",
+      "name": "PR - 600II"
+    },
+    {
+      "brand": "36",
+      "id": "  886",
+      "name": "PR - 620"
+    },
+    {
+      "brand": "36",
+      "id": "  887",
+      "name": "PR - 650"
+    },
+    {
+      "brand": "36",
+      "id": "  888",
+      "name": "PR - 655"
+    },
+    {
+      "brand": "36",
+      "id": "  889",
+      "name": "Project Runway Innovis 40e"
+    },
+    {
+      "brand": "36",
+      "id": "  890",
+      "name": "Project Runway Innovis 85e"
+    },
+    {
+      "brand": "36",
+      "id": "  891",
+      "name": "PS 1000"
+    },
+    {
+      "brand": "36",
+      "id": "  892",
+      "name": "PS 1250"
+    },
+    {
+      "brand": "36",
+      "id": "  893",
+      "name": "PS 2200"
+    },
+    {
+      "brand": "36",
+      "id": "  894",
+      "name": "PS 2300"
+    },
+    {
+      "brand": "36",
+      "id": "  895",
+      "name": "PS 2500"
+    },
+    {
+      "brand": "36",
+      "id": "  896",
+      "name": "QC 1000"
+    },
+    {
+      "brand": "36",
+      "id": "  897",
+      "name": "Quatro NV6000D"
+    },
+    {
+      "brand": "36",
+      "id": "  898",
+      "name": "Quattro 2 6700D"
+    },
+    {
+      "brand": "36",
+      "id": "  899",
+      "name": "Quattro 3 Trilogy Limited Edition Innovis 6750D"
+    },
+    {
+      "brand": "36",
+      "id": "  900",
+      "name": "Quattro 6000D"
+    },
+    {
+      "brand": "36",
+      "id": "  901",
+      "name": "SC 9500"
+    },
+    {
+      "brand": "36",
+      "id": "  902",
+      "name": "SE 270D"
+    },
+    {
+      "brand": "36",
+      "id": "  903",
+      "name": "SE 350"
+    },
+    {
+      "brand": "36",
+      "id": "  904",
+      "name": "SE 400"
+    },
+    {
+      "brand": "36",
+      "id": "  905",
+      "name": "SE425"
+    },
+    {
+      "brand": "36",
+      "id": "  906",
+      "name": "Simplicity SB170"
+    },
+    {
+      "brand": "36",
+      "id": "  907",
+      "name": "Simplicity SB3129"
+    },
+    {
+      "brand": "36",
+      "id": "  908",
+      "name": "Simplicity SB530T"
+    },
+    {
+      "brand": "36",
+      "id": "  909",
+      "name": "Simplicity SB700t"
+    },
+    {
+      "brand": "36",
+      "id": "  910",
+      "name": "Simplicity SB7050E"
+    },
+    {
+      "brand": "36",
+      "id": "  911",
+      "name": "Simplicity SB7500"
+    },
+    {
+      "brand": "36",
+      "id": "  912",
+      "name": "Simplicity SB7900E"
+    },
+    {
+      "brand": "36",
+      "id": "  2413",
+      "name": "SM3701"
+    },
+    {
+      "brand": "36",
+      "id": "  913",
+      "name": "SM8270"
+    },
+    {
+      "brand": "36",
+      "id": "  914",
+      "name": "SQ9000"
+    },
+    {
+      "brand": "36",
+      "id": "  915",
+      "name": "SQ9050"
+    },
+    {
+      "brand": "36",
+      "id": "  2293",
+      "name": "SQ9130"
+    },
+    {
+      "brand": "36",
+      "id": "  916",
+      "name": "SQ9185"
+    },
+    {
+      "brand": "36",
+      "id": "  2462",
+      "name": "SQ9285"
+    },
+    {
+      "brand": "36",
+      "id": "  917",
+      "name": "Super Galaxie"
+    },
+    {
+      "brand": "36",
+      "id": "  918",
+      "name": "The Dream Machine XV8500D"
+    },
+    {
+      "brand": "36",
+      "id": "  919",
+      "name": "ULT - 2001"
+    },
+    {
+      "brand": "36",
+      "id": "  921",
+      "name": "ULT - 2003D"
+    },
+    {
+      "brand": "36",
+      "id": "  2352",
+      "name": "ULT2002D"
+    },
+    {
+      "brand": "36",
+      "id": "  922",
+      "name": "VX"
+    },
+    {
+      "brand": "36",
+      "id": "  923",
+      "name": "VX 1435"
+    },
+    {
+      "brand": "36",
+      "id": "  924",
+      "name": "XB 2510"
+    },
+    {
+      "brand": "36",
+      "id": "  925",
+      "name": "XL"
+    },
+    {
+      "brand": "36",
+      "id": "  926",
+      "name": "XL 2230"
+    },
+    {
+      "brand": "36",
+      "id": "  927",
+      "name": "XL 2600"
+    },
+    {
+      "brand": "36",
+      "id": "  928",
+      "name": "XL 2600i"
+    },
+    {
+      "brand": "36",
+      "id": "  929",
+      "name": "XL 2610"
+    },
+    {
+      "brand": "36",
+      "id": "  930",
+      "name": "XL 2800"
+    },
+    {
+      "brand": "36",
+      "id": "  931",
+      "name": "XL 3100"
+    },
+    {
+      "brand": "36",
+      "id": "  932",
+      "name": "XL 3500"
+    },
+    {
+      "brand": "36",
+      "id": "  933",
+      "name": "XL 3500T"
+    },
+    {
+      "brand": "36",
+      "id": "  934",
+      "name": "XL 3510"
+    },
+    {
+      "brand": "36",
+      "id": "  935",
+      "name": "XL 3750"
+    },
+    {
+      "brand": "36",
+      "id": "  936",
+      "name": "XL 5130"
+    },
+    {
+      "brand": "36",
+      "id": "  937",
+      "name": "XL 5232"
+    },
+    {
+      "brand": "36",
+      "id": "  938",
+      "name": "XL 5340"
+    },
+    {
+      "brand": "36",
+      "id": "  939",
+      "name": "XL 5500"
+    },
+    {
+      "brand": "36",
+      "id": "  940",
+      "name": "XL 5600"
+    },
+    {
+      "brand": "36",
+      "id": "  941",
+      "name": "XL 5700"
+    },
+    {
+      "brand": "36",
+      "id": "  942",
+      "name": "XL 6452"
+    },
+    {
+      "brand": "36",
+      "id": "  943",
+      "name": "XL 6562"
+    },
+    {
+      "brand": "36",
+      "id": "  944",
+      "name": "XM 2701"
+    },
+    {
+      "brand": "36",
+      "id": "  945",
+      "name": "XR"
+    },
+    {
+      "brand": "36",
+      "id": "  1688",
+      "name": "XR 1300"
+    },
+    {
+      "brand": "36",
+      "id": "  946",
+      "name": "XR 1335"
+    },
+    {
+      "brand": "36",
+      "id": "  2376",
+      "name": "XR 3240"
+    },
+    {
+      "brand": "36",
+      "id": "  947",
+      "name": "XR 3774"
+    },
+    {
+      "brand": "36",
+      "id": "  948",
+      "name": "XR 40"
+    },
+    {
+      "brand": "36",
+      "id": "  949",
+      "name": "XR 4040"
+    },
+    {
+      "brand": "36",
+      "id": "  950",
+      "name": "XR 46C"
+    },
+    {
+      "brand": "36",
+      "id": "  951",
+      "name": "XR 52C"
+    },
+    {
+      "brand": "36",
+      "id": "  952",
+      "name": "XR 65T"
+    },
+    {
+      "brand": "36",
+      "id": "  953",
+      "name": "XR 7700"
+    },
+    {
+      "brand": "36",
+      "id": "  1687",
+      "name": "XR 9000"
+    },
+    {
+      "brand": "36",
+      "id": "  954",
+      "name": "XR 9500PRW"
+    },
+    {
+      "brand": "36",
+      "id": "  955",
+      "name": "XS3109"
+    },
+    {
+      "brand": "36",
+      "id": "  956",
+      "name": "XS37"
+    },
+    {
+      "brand": "36",
+      "id": "  957",
+      "name": "XV 8500D"
+    },
+    {
+      "brand": "37",
+      "id": "  958",
+      "name": "100"
+    },
+    {
+      "brand": "37",
+      "id": "  980",
+      "name": "1000"
+    },
+    {
+      "brand": "37",
+      "id": "  981",
+      "name": "1010"
+    },
+    {
+      "brand": "37",
+      "id": "  959",
+      "name": "102"
+    },
+    {
+      "brand": "37",
+      "id": "  960",
+      "name": "103"
+    },
+    {
+      "brand": "37",
+      "id": "  961",
+      "name": "104"
+    },
+    {
+      "brand": "37",
+      "id": "  982",
+      "name": "2003"
+    },
+    {
+      "brand": "37",
+      "id": "  983",
+      "name": "2005"
+    },
+    {
+      "brand": "37",
+      "id": "  984",
+      "name": "2007"
+    },
+    {
+      "brand": "37",
+      "id": "  985",
+      "name": "2110"
+    },
+    {
+      "brand": "37",
+      "id": "  986",
+      "name": "2130"
+    },
+    {
+      "brand": "37",
+      "id": "  962",
+      "name": "220"
+    },
+    {
+      "brand": "37",
+      "id": "  963",
+      "name": "240"
+    },
+    {
+      "brand": "37",
+      "id": "  994",
+      "name": "2600 Blue"
+    },
+    {
+      "brand": "37",
+      "id": "  995",
+      "name": "2800 Blue"
+    },
+    {
+      "brand": "37",
+      "id": "  964",
+      "name": "320"
+    },
+    {
+      "brand": "37",
+      "id": "  987",
+      "name": "3210"
+    },
+    {
+      "brand": "37",
+      "id": "  988",
+      "name": "3230"
+    },
+    {
+      "brand": "37",
+      "id": "  965",
+      "name": "340"
+    },
+    {
+      "brand": "37",
+      "id": "  966",
+      "name": "444"
+    },
+    {
+      "brand": "37",
+      "id": "  2342",
+      "name": "500"
+    },
+    {
+      "brand": "37",
+      "id": "  967",
+      "name": "520"
+    },
+    {
+      "brand": "37",
+      "id": "  968",
+      "name": "540"
+    },
+    {
+      "brand": "37",
+      "id": "  2355",
+      "name": "580"
+    },
+    {
+      "brand": "37",
+      "id": "  989",
+      "name": "6001"
+    },
+    {
+      "brand": "37",
+      "id": "  996",
+      "name": "6003 Q"
+    },
+    {
+      "brand": "37",
+      "id": "  997",
+      "name": "6005 Heirloom"
+    },
+    {
+      "brand": "37",
+      "id": "  969",
+      "name": "620"
+    },
+    {
+      "brand": "37",
+      "id": "  970",
+      "name": "660"
+    },
+    {
+      "brand": "37",
+      "id": "  971",
+      "name": "680"
+    },
+    {
+      "brand": "37",
+      "id": "  2423",
+      "name": "7100"
+    },
+    {
+      "brand": "37",
+      "id": "  972",
+      "name": "720"
+    },
+    {
+      "brand": "37",
+      "id": "  990",
+      "name": "7200"
+    },
+    {
+      "brand": "37",
+      "id": "  1717",
+      "name": "7200 Pro Quilters Dream"
+    },
+    {
+      "brand": "37",
+      "id": "  973",
+      "name": "730"
+    },
+    {
+      "brand": "37",
+      "id": "  974",
+      "name": "740"
+    },
+    {
+      "brand": "37",
+      "id": "  975",
+      "name": "760"
+    },
+    {
+      "brand": "37",
+      "id": "  976",
+      "name": "820"
+    },
+    {
+      "brand": "37",
+      "id": "  998",
+      "name": "820 Expressive"
+    },
+    {
+      "brand": "37",
+      "id": "  999",
+      "name": "8200 Experience"
+    },
+    {
+      "brand": "37",
+      "id": "  1718",
+      "name": "8300 Experience"
+    },
+    {
+      "brand": "37",
+      "id": "  977",
+      "name": "860"
+    },
+    {
+      "brand": "37",
+      "id": "  991",
+      "name": "8600"
+    },
+    {
+      "brand": "37",
+      "id": "  978",
+      "name": "900"
+    },
+    {
+      "brand": "37",
+      "id": "  992",
+      "name": "9020"
+    },
+    {
+      "brand": "37",
+      "id": "  979",
+      "name": "940"
+    },
+    {
+      "brand": "37",
+      "id": "  1000",
+      "name": "940 Expressive"
+    },
+    {
+      "brand": "37",
+      "id": "  993",
+      "name": "9500"
+    },
+    {
+      "brand": "37",
+      "id": "  1001",
+      "name": "9600 Haute Couture"
+    },
+    {
+      "brand": "37",
+      "id": "  2424",
+      "name": "Air Electronic SU"
+    },
+    {
+      "brand": "37",
+      "id": "  1002",
+      "name": "ELJ3210"
+    },
+    {
+      "brand": "37",
+      "id": "  1003",
+      "name": "En Vision CE 20"
+    },
+    {
+      "brand": "37",
+      "id": "  2360",
+      "name": "Expressive 830"
+    },
+    {
+      "brand": "37",
+      "id": "  2425",
+      "name": "Expressive 920"
+    },
+    {
+      "brand": "37",
+      "id": "  1004",
+      "name": "Lotus"
+    },
+    {
+      "brand": "37",
+      "id": "  2343",
+      "name": "Pro Quilting Queen 7300"
+    },
+    {
+      "brand": "37",
+      "id": "  1005",
+      "name": "SewFun"
+    },
+    {
+      "brand": "37",
+      "id": "  1006",
+      "name": "SewGreen"
+    },
+    {
+      "brand": "37",
+      "id": "  1007",
+      "name": "SewZebra"
+    },
+    {
+      "brand": "37",
+      "id": "  1008",
+      "name": "Star"
+    },
+    {
+      "brand": "37",
+      "id": "  2370",
+      "name": "Su Super"
+    },
+    {
+      "brand": "37",
+      "id": "  2325",
+      "name": "Supermatic"
+    },
+    {
+      "brand": "67",
+      "id": "  2461",
+      "name": "Sparrow 25"
+    },
+     {
+      "brand": "38",
+      "id": "  1009",
+      "name": "Charm"
+    },
+    {
+      "brand": "38",
+      "id": "  1616",
+      "name": "Classic"
+    },
+    {
+      "brand": "38",
+      "id": "  1010",
+      "name": "Optimum"
+    },
+    {
+      "brand": "38",
+      "id": "  1618",
+      "name": "Premier"
+    },
+    {
+      "brand": "38",
+      "id": "  1011",
+      "name": "Statler"
+    },
+    {
+      "brand": "38",
+      "id": "  1012",
+      "name": "Vision"
+    },
+     {
+      "brand": "57",
+      "id": "  1525",
+      "name": "Avante"
+    },
+    {
+      "brand": "57",
+      "id": "  2465",
+      "name": "Forte"
+    },
+    {
+      "brand": "57",
+      "id": "  1526",
+      "name": "Fusion"
+    },
+    {
+      "brand": "57",
+      "id": "  1527",
+      "name": "Infinity"
+    },
+    {
+      "brand": "57",
+      "id": "  2341",
+      "name": "Simply Sixteen"
+    },
+    {
+      "brand": "57",
+      "id": "  2321",
+      "name": "Sixteen"
+    },
+    {
+      "brand": "57",
+      "id": "  1524",
+      "name": "Sweet Sixteen"
+    },
+    {
+      "brand": "39",
+      "id": "  1013",
+      "name": "Indigo 19\""
+    },
+    {
+      "brand": "39",
+      "id": "  1014",
+      "name": "Voyager 17"
+    },
+    {
+      "brand": "39",
+      "id": "  1015",
+      "name": "Weekender 11\""
+    },
+        {
+      "brand": "40",
+      "id": "  1730",
+      "name": "#1"
+    },
+    {
+      "brand": "40",
+      "id": "  1839",
+      "name": "#1+"
+    },
+    {
+      "brand": "40",
+      "id": "  1791",
+      "name": "100"
+    },
+    {
+      "brand": "40",
+      "id": "  2311",
+      "name": "1100"
+    },
+    {
+      "brand": "40",
+      "id": "  1731",
+      "name": "1200"
+    },
+    {
+      "brand": "40",
+      "id": "  2323",
+      "name": "185 optima"
+    },
+    {
+      "brand": "40",
+      "id": "  1792",
+      "name": "200"
+    },
+    {
+      "brand": "40",
+      "id": "  2404",
+      "name": "2000"
+    },
+    {
+      "brand": "40",
+      "id": "  1835",
+      "name": "205"
+    },
+    {
+      "brand": "40",
+      "id": "  1834",
+      "name": "210"
+    },
+    {
+      "brand": "40",
+      "id": "  1833",
+      "name": "215"
+    },
+    {
+      "brand": "40",
+      "id": "  1832",
+      "name": "225"
+    },
+    {
+      "brand": "40",
+      "id": "  1831",
+      "name": "230"
+    },
+    {
+      "brand": "40",
+      "id": "  1830",
+      "name": "250"
+    },
+    {
+      "brand": "40",
+      "id": "  1793",
+      "name": "300"
+    },
+    {
+      "brand": "40",
+      "id": "  1775",
+      "name": "3000"
+    },
+    {
+      "brand": "40",
+      "id": "  1814",
+      "name": "310"
+    },
+    {
+      "brand": "40",
+      "id": "  1813",
+      "name": "315"
+    },
+    {
+      "brand": "40",
+      "id": "  1815",
+      "name": "320"
+    },
+    {
+      "brand": "40",
+      "id": "  1812",
+      "name": "325"
+    },
+    {
+      "brand": "40",
+      "id": "  1811",
+      "name": "330"
+    },
+    {
+      "brand": "40",
+      "id": "  1810",
+      "name": "335"
+    },
+    {
+      "brand": "40",
+      "id": "  1800",
+      "name": "340"
+    },
+    {
+      "brand": "40",
+      "id": "  1755",
+      "name": "350"
+    },
+    {
+      "brand": "40",
+      "id": "  1801",
+      "name": "360"
+    },
+    {
+      "brand": "40",
+      "id": "  1802",
+      "name": "370"
+    },
+    {
+      "brand": "40",
+      "id": "  1756",
+      "name": "400"
+    },
+    {
+      "brand": "40",
+      "id": "  1757",
+      "name": "415"
+    },
+    {
+      "brand": "40",
+      "id": "  1758",
+      "name": "425"
+    },
+    {
+      "brand": "40",
+      "id": "  1759",
+      "name": "435"
+    },
+    {
+      "brand": "40",
+      "id": "  1760",
+      "name": "445"
+    },
+    {
+      "brand": "40",
+      "id": "  1761",
+      "name": "500"
+    },
+    {
+      "brand": "40",
+      "id": "  1762",
+      "name": "530"
+    },
+    {
+      "brand": "40",
+      "id": "  1763",
+      "name": "535"
+    },
+    {
+      "brand": "40",
+      "id": "  1764",
+      "name": "540"
+    },
+    {
+      "brand": "40",
+      "id": "  1765",
+      "name": "545"
+    },
+    {
+      "brand": "40",
+      "id": "  1766",
+      "name": "550"
+    },
+    {
+      "brand": "40",
+      "id": "  1767",
+      "name": "555"
+    },
+    {
+      "brand": "40",
+      "id": "  1787",
+      "name": "600"
+    },
+    {
+      "brand": "40",
+      "id": "  1742",
+      "name": "6019QC"
+    },
+    {
+      "brand": "40",
+      "id": "  1788",
+      "name": "605"
+    },
+    {
+      "brand": "40",
+      "id": "  2320",
+      "name": "6430"
+    },
+    {
+      "brand": "40",
+      "id": "  1776",
+      "name": "715"
+    },
+    {
+      "brand": "40",
+      "id": "  1777",
+      "name": "730"
+    },
+    {
+      "brand": "40",
+      "id": "  1778",
+      "name": "735"
+    },
+    {
+      "brand": "40",
+      "id": "  1779",
+      "name": "750"
+    },
+    {
+      "brand": "40",
+      "id": "  1780",
+      "name": "750 Quilt"
+    },
+    {
+      "brand": "40",
+      "id": "  1781",
+      "name": "755"
+    },
+    {
+      "brand": "40",
+      "id": "  1743",
+      "name": "755 Quilt"
+    },
+    {
+      "brand": "40",
+      "id": "  1782",
+      "name": "770"
+    },
+    {
+      "brand": "40",
+      "id": "  1783",
+      "name": "775"
+    },
+    {
+      "brand": "40",
+      "id": "  1737",
+      "name": "830"
+    },
+    {
+      "brand": "40",
+      "id": "  1738",
+      "name": "835"
+    },
+    {
+      "brand": "40",
+      "id": "  1739",
+      "name": "850"
+    },
+    {
+      "brand": "40",
+      "id": "  1740",
+      "name": "855"
+    },
+    {
+      "brand": "40",
+      "id": "  1741",
+      "name": "870"
+    },
+    {
+      "brand": "40",
+      "id": "  1784",
+      "name": "950 E"
+    },
+    {
+      "brand": "40",
+      "id": "  1785",
+      "name": "955 E"
+    },
+    {
+      "brand": "40",
+      "id": "  1744",
+      "name": "Angelica"
+    },
+    {
+      "brand": "40",
+      "id": "  1822",
+      "name": "Anna"
+    },
+    {
+      "brand": "40",
+      "id": "  2081",
+      "name": "C10"
+    },
+    {
+      "brand": "40",
+      "id": "  1808",
+      "name": "Daisy 310"
+    },
+    {
+      "brand": "40",
+      "id": "  1807",
+      "name": "Daisy 315"
+    },
+    {
+      "brand": "40",
+      "id": "  1809",
+      "name": "Daisy 320"
+    },
+    {
+      "brand": "40",
+      "id": "  1806",
+      "name": "Daisy 325"
+    },
+    {
+      "brand": "40",
+      "id": "  1805",
+      "name": "Daisy 330"
+    },
+    {
+      "brand": "40",
+      "id": "  1804",
+      "name": "Daisy 335"
+    },
+    {
+      "brand": "40",
+      "id": "  1016",
+      "name": "Designer Diamond"
+    },
+    {
+      "brand": "40",
+      "id": "  1745",
+      "name": "Designer Diamond Royale"
+    },
+    {
+      "brand": "40",
+      "id": "  1692",
+      "name": "Designer Epic"
+    },
+    {
+      "brand": "40",
+      "id": "  1017",
+      "name": "Designer I"
+    },
+    {
+      "brand": "40",
+      "id": "  1018",
+      "name": "Designer II"
+    },
+    {
+      "brand": "40",
+      "id": "  1019",
+      "name": "Designer III"
+    },
+    {
+      "brand": "40",
+      "id": "  1020",
+      "name": "Designer Ruby"
+    },
+    {
+      "brand": "40",
+      "id": "  1021",
+      "name": "Designer SE"
+    },
+    {
+      "brand": "40",
+      "id": "  1022",
+      "name": "Designer Topaz 20"
+    },
+    {
+      "brand": "40",
+      "id": "  1023",
+      "name": "Designer Topaz 30"
+    },
+    {
+      "brand": "40",
+      "id": "  1746",
+      "name": "Designer Topaz 40"
+    },
+    {
+      "brand": "40",
+      "id": "  1024",
+      "name": "Diamond"
+    },
+    {
+      "brand": "40",
+      "id": "  1733",
+      "name": "Diamond Royale"
+    },
+    {
+      "brand": "40",
+      "id": "  1734",
+      "name": "Eden Rose 250C"
+    },
+    {
+      "brand": "40",
+      "id": "  1025",
+      "name": "Emerald"
+    },
+    {
+      "brand": "40",
+      "id": "  2358",
+      "name": "Emerald 183"
+    },
+    {
+      "brand": "40",
+      "id": "  1818",
+      "name": "Emma"
+    },
+    {
+      "brand": "40",
+      "id": "  1694",
+      "name": "Epic"
+    },
+    {
+      "brand": "40",
+      "id": "  1747",
+      "name": "Facette 500/400"
+    },
+    {
+      "brand": "40",
+      "id": "  1748",
+      "name": "Freesia 350"
+    },
+    {
+      "brand": "40",
+      "id": "  1749",
+      "name": "Freesia 400"
+    },
+    {
+      "brand": "40",
+      "id": "  1721",
+      "name": "Freesia 415"
+    },
+    {
+      "brand": "40",
+      "id": "  1750",
+      "name": "Freesia 425"
+    },
+    {
+      "brand": "40",
+      "id": "  1751",
+      "name": "Freesia 435"
+    },
+    {
+      "brand": "40",
+      "id": "  1752",
+      "name": "Freesia 445"
+    },
+    {
+      "brand": "40",
+      "id": "  1753",
+      "name": "Freesia 500"
+    },
+    {
+      "brand": "40",
+      "id": "  1836",
+      "name": "Hugin"
+    },
+    {
+      "brand": "40",
+      "id": "  2080",
+      "name": "Huskystar 224"
+    },
+    {
+      "brand": "40",
+      "id": "  1736",
+      "name": "Huskystar C20"
+    },
+    {
+      "brand": "40",
+      "id": "  1754",
+      "name": "Interlude 435"
+    },
+    {
+      "brand": "40",
+      "id": "  1722",
+      "name": "Interlude 445"
+    },
+    {
+      "brand": "40",
+      "id": "  1026",
+      "name": "Iris"
+    },
+    {
+      "brand": "40",
+      "id": "  1829",
+      "name": "Jeans"
+    },
+    {
+      "brand": "40",
+      "id": "  1821",
+      "name": "Juliet"
+    },
+    {
+      "brand": "40",
+      "id": "  1819",
+      "name": "Lena"
+    },
+    {
+      "brand": "40",
+      "id": "  1723",
+      "name": "Lily 530"
+    },
+    {
+      "brand": "40",
+      "id": "  1724",
+      "name": "Lily 535"
+    },
+    {
+      "brand": "40",
+      "id": "  1725",
+      "name": "Lily 540"
+    },
+    {
+      "brand": "40",
+      "id": "  1726",
+      "name": "Lily 545"
+    },
+    {
+      "brand": "40",
+      "id": "  1727",
+      "name": "Lily 550"
+    },
+    {
+      "brand": "40",
+      "id": "  1728",
+      "name": "Lily 555"
+    },
+    {
+      "brand": "40",
+      "id": "  1768",
+      "name": "Lisa"
+    },
+    {
+      "brand": "40",
+      "id": "  1729",
+      "name": "Mega Quilter"
+    },
+    {
+      "brand": "40",
+      "id": "  2450",
+      "name": "Mega Quilter 18x8"
+    },
+    {
+      "brand": "40",
+      "id": "  1838",
+      "name": "Opal 650"
+    },
+    {
+      "brand": "40",
+      "id": "  1735",
+      "name": "Opal 690Q"
+    },
+    {
+      "brand": "40",
+      "id": "  1816",
+      "name": "Oscar"
+    },
+    {
+      "brand": "40",
+      "id": "  1027",
+      "name": "Platinum 16"
+    },
+    {
+      "brand": "40",
+      "id": "  1720",
+      "name": "Platinum 3000"
+    },
+    {
+      "brand": "40",
+      "id": "  1769",
+      "name": "Platinum 715"
+    },
+    {
+      "brand": "40",
+      "id": "  1770",
+      "name": "Platinum 730"
+    },
+    {
+      "brand": "40",
+      "id": "  1771",
+      "name": "Platinum 735"
+    },
+    {
+      "brand": "40",
+      "id": "  1028",
+      "name": "Platinum 750"
+    },
+    {
+      "brand": "40",
+      "id": "  1772",
+      "name": "Platinum 750 Quilt"
+    },
+    {
+      "brand": "40",
+      "id": "  1773",
+      "name": "Platinum 755 Quilt"
+    },
+    {
+      "brand": "40",
+      "id": "  1029",
+      "name": "Platinum 950E"
+    },
+    {
+      "brand": "40",
+      "id": "  1030",
+      "name": "Platinum 955E"
+    },
+    {
+      "brand": "40",
+      "id": "  1774",
+      "name": "Platinum Plus"
+    },
+    {
+      "brand": "40",
+      "id": "  1031",
+      "name": "Platinum Plus 755"
+    },
+    {
+      "brand": "40",
+      "id": "  1032",
+      "name": "Platinum Plus 770"
+    },
+    {
+      "brand": "40",
+      "id": "  1033",
+      "name": "Platinum Plus 775"
+    },
+    {
+      "brand": "40",
+      "id": "  1796",
+      "name": "Prelude 340"
+    },
+    {
+      "brand": "40",
+      "id": "  1798",
+      "name": "Prelude 350"
+    },
+    {
+      "brand": "40",
+      "id": "  1797",
+      "name": "Prelude 360"
+    },
+    {
+      "brand": "40",
+      "id": "  1799",
+      "name": "Prelude 370"
+    },
+    {
+      "brand": "40",
+      "id": "  2318",
+      "name": "Prisma 990"
+    },
+    {
+      "brand": "40",
+      "id": "  2327",
+      "name": "Prisma 990 S"
+    },
+    {
+      "brand": "40",
+      "id": "  1034",
+      "name": "Quilt Designer"
+    },
+    {
+      "brand": "40",
+      "id": "  1035",
+      "name": "Quilt Designer II"
+    },
+    {
+      "brand": "40",
+      "id": "  1820",
+      "name": "Romeo"
+    },
+    {
+      "brand": "40",
+      "id": "  1036",
+      "name": "Rose"
+    },
+    {
+      "brand": "40",
+      "id": "  1037",
+      "name": "Rose 600"
+    },
+    {
+      "brand": "40",
+      "id": "  1786",
+      "name": "Rose 605"
+    },
+    {
+      "brand": "40",
+      "id": "  1789",
+      "name": "Ruby Deluxe"
+    },
+    {
+      "brand": "40",
+      "id": "  1038",
+      "name": "Sapphire"
+    },
+    {
+      "brand": "40",
+      "id": "  2395",
+      "name": "Sapphire 835"
+    },
+    {
+      "brand": "40",
+      "id": "  1790",
+      "name": "Sapphire 875Q"
+    },
+    {
+      "brand": "40",
+      "id": "  2449",
+      "name": "Sapphire 930"
+    },
+    {
+      "brand": "40",
+      "id": "  1828",
+      "name": "Sarah 205"
+    },
+    {
+      "brand": "40",
+      "id": "  1827",
+      "name": "Sarah 210"
+    },
+    {
+      "brand": "40",
+      "id": "  1826",
+      "name": "Sarah 215"
+    },
+    {
+      "brand": "40",
+      "id": "  1825",
+      "name": "Sarah 225"
+    },
+    {
+      "brand": "40",
+      "id": "  1824",
+      "name": "Sarah 230"
+    },
+    {
+      "brand": "40",
+      "id": "  1823",
+      "name": "Sarah 250"
+    },
+    {
+      "brand": "40",
+      "id": "  1803",
+      "name": "Scandinavia 100"
+    },
+    {
+      "brand": "40",
+      "id": "  1039",
+      "name": "Scandinavia 200"
+    },
+    {
+      "brand": "40",
+      "id": "  1040",
+      "name": "Scandinavia 300"
+    },
+    {
+      "brand": "40",
+      "id": "  1041",
+      "name": "Scandinavia 400"
+    },
+    {
+      "brand": "40",
+      "id": "  2314",
+      "name": "SLE 6570"
+    },
+    {
+      "brand": "40",
+      "id": "  1817",
+      "name": "Sophia"
+    },
+    {
+      "brand": "40",
+      "id": "  2399",
+      "name": "Topaz 25"
+    },
+    {
+      "brand": "40",
+      "id": "  1732",
+      "name": "Topaz 50"
+    },
+    {
+      "brand": "40",
+      "id": "  1837",
+      "name": "Tribute"
+    },
+    {
+      "brand": "40",
+      "id": "  1794",
+      "name": "Victoria"
+    },
+    {
+      "brand": "40",
+      "id": "  1795",
+      "name": "Viva"
+    },
+    {
+      "brand": "41",
+      "id": "  1042",
+      "name": "18\""
+    },
+    {
+      "brand": "41",
+      "id": "  1043",
+      "name": "22\""
+    },
+    {
+      "brand": "41",
+      "id": "  1044",
+      "name": "26\""
+    },
+    {
+      "brand": "41",
+      "id": "  1045",
+      "name": "32\""
+    },
+    {
+      "brand": "41",
+      "id": "  1046",
+      "name": "Sit Down"
+    },
+    {
+      "brand": "42",
+      "id": "  1051",
+      "name": "1000CPX"
+    },
+    {
+      "brand": "42",
+      "id": "  1644",
+      "name": "128"
+    },
+    {
+      "brand": "42",
+      "id": "  2444",
+      "name": "15000"
+    },
+    {
+      "brand": "42",
+      "id": "  1052",
+      "name": "1600P"
+    },
+    {
+      "brand": "42",
+      "id": "  1053",
+      "name": "1600QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  1054",
+      "name": "2000CPX"
+    },
+    {
+      "brand": "42",
+      "id": "  2432",
+      "name": "2030QDC"
+    },
+    {
+      "brand": "42",
+      "id": "  1840",
+      "name": "2139N"
+    },
+    {
+      "brand": "42",
+      "id": "  1047",
+      "name": "2206"
+    },
+    {
+      "brand": "42",
+      "id": "  1048",
+      "name": "2212"
+    },
+    {
+      "brand": "42",
+      "id": "  1049",
+      "name": "2222"
+    },
+    {
+      "brand": "42",
+      "id": "  1050",
+      "name": "3128"
+    },
+    {
+      "brand": "42",
+      "id": "  1055",
+      "name": "3160QDC"
+    },
+    {
+      "brand": "42",
+      "id": "  2297",
+      "name": "350e"
+    },
+    {
+      "brand": "42",
+      "id": "  1645",
+      "name": "41012"
+    },
+    {
+      "brand": "42",
+      "id": "  1056",
+      "name": "4120QDC"
+    },
+    {
+      "brand": "42",
+      "id": "  2429",
+      "name": "415"
+    },
+    {
+      "brand": "42",
+      "id": "  2420",
+      "name": "4618QC"
+    },
+    {
+      "brand": "42",
+      "id": "  2430",
+      "name": "4900"
+    },
+    {
+      "brand": "42",
+      "id": "  1646",
+      "name": "49018"
+    },
+    {
+      "brand": "42",
+      "id": "  1647",
+      "name": "49360"
+    },
+    {
+      "brand": "42",
+      "id": "  2332",
+      "name": "500E"
+    },
+    {
+      "brand": "42",
+      "id": "  1648",
+      "name": "5812"
+    },
+    {
+      "brand": "42",
+      "id": "  1673",
+      "name": "6125QC"
+    },
+    {
+      "brand": "42",
+      "id": "  1674",
+      "name": "6260QC"
+    },
+    {
+      "brand": "42",
+      "id": "  1649",
+      "name": "6300P"
+    },
+    {
+      "brand": "42",
+      "id": "  2431",
+      "name": "6500"
+    },
+    {
+      "brand": "42",
+      "id": "  2412",
+      "name": "6600"
+    },
+    {
+      "brand": "42",
+      "id": "  1057",
+      "name": "712T"
+    },
+    {
+      "brand": "42",
+      "id": "  1672",
+      "name": "720"
+    },
+    {
+      "brand": "42",
+      "id": "  2377",
+      "name": "7700QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  1650",
+      "name": "8050"
+    },
+    {
+      "brand": "42",
+      "id": "  1651",
+      "name": "8077"
+    },
+    {
+      "brand": "42",
+      "id": "  2301",
+      "name": "8200QC"
+    },
+    {
+      "brand": "42",
+      "id": "  1058",
+      "name": "8200QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  2306",
+      "name": "8900"
+    },
+    {
+      "brand": "42",
+      "id": "  1059",
+      "name": "8900QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  2392",
+      "name": "8900QPR"
+    },
+    {
+      "brand": "42",
+      "id": "  1060",
+      "name": "900CPX"
+    },
+    {
+      "brand": "42",
+      "id": "  2344",
+      "name": "AQS 2009"
+    },
+    {
+      "brand": "42",
+      "id": "  1706",
+      "name": "Artistic Quilter"
+    },
+    {
+      "brand": "42",
+      "id": "  2372",
+      "name": "Artistic SD 16"
+    },
+    {
+      "brand": "42",
+      "id": "  2441",
+      "name": "Atelier 5"
+    },
+    {
+      "brand": "42",
+      "id": "  1652",
+      "name": "Classmate S-750"
+    },
+    {
+      "brand": "42",
+      "id": "  2379",
+      "name": "Cooper Pro 5000Q"
+    },
+    {
+      "brand": "42",
+      "id": "  1061",
+      "name": "DC1018"
+    },
+    {
+      "brand": "42",
+      "id": "  1062",
+      "name": "DC1050"
+    },
+    {
+      "brand": "42",
+      "id": "  1653",
+      "name": "DC2012"
+    },
+    {
+      "brand": "42",
+      "id": "  1654",
+      "name": "DC2013"
+    },
+    {
+      "brand": "42",
+      "id": "  1063",
+      "name": "DC2014"
+    },
+    {
+      "brand": "42",
+      "id": "  1064",
+      "name": "DC2015"
+    },
+    {
+      "brand": "42",
+      "id": "  1675",
+      "name": "DC3018"
+    },
+    {
+      "brand": "42",
+      "id": "  1655",
+      "name": "DC3050"
+    },
+    {
+      "brand": "42",
+      "id": "  1656",
+      "name": "DC4030P"
+    },
+    {
+      "brand": "42",
+      "id": "  1657",
+      "name": "DC5100"
+    },
+    {
+      "brand": "42",
+      "id": "  2433",
+      "name": "Decor Excel Pro 5124"
+    },
+    {
+      "brand": "42",
+      "id": "  2349",
+      "name": "DLX 603"
+    },
+    {
+      "brand": "42",
+      "id": "  1066",
+      "name": "FM-725"
+    },
+    {
+      "brand": "42",
+      "id": "  2322",
+      "name": "Harmony 8080"
+    },
+    {
+      "brand": "42",
+      "id": "  1067",
+      "name": "HD1000"
+    },
+    {
+      "brand": "42",
+      "id": "  1068",
+      "name": "HD3000"
+    },
+    {
+      "brand": "42",
+      "id": "  1844",
+      "name": "HD5000"
+    },
+    {
+      "brand": "42",
+      "id": "  1069",
+      "name": "Hello Kitty 11706"
+    },
+    {
+      "brand": "42",
+      "id": "  1658",
+      "name": "Hello Kitty 13512"
+    },
+    {
+      "brand": "42",
+      "id": "  1659",
+      "name": "Hello Kitty 14412"
+    },
+    {
+      "brand": "42",
+      "id": "  1660",
+      "name": "Hello Kitty 15312"
+    },
+    {
+      "brand": "42",
+      "id": "  1070",
+      "name": "Hello Kitty 15822"
+    },
+    {
+      "brand": "42",
+      "id": "  1071",
+      "name": "Hello Kitty 18750"
+    },
+    {
+      "brand": "42",
+      "id": "  2434",
+      "name": "HT2008LE"
+    },
+    {
+      "brand": "42",
+      "id": "  1072",
+      "name": "Jem Gold 660"
+    },
+    {
+      "brand": "42",
+      "id": "  1073",
+      "name": "Jem Platinum 760"
+    },
+    {
+      "brand": "42",
+      "id": "  1074",
+      "name": "JNH2030DC"
+    },
+    {
+      "brand": "42",
+      "id": "  1075",
+      "name": "JNH720"
+    },
+    {
+      "brand": "42",
+      "id": "  1661",
+      "name": "JNH7700"
+    },
+    {
+      "brand": "42",
+      "id": "  2378",
+      "name": "JP720"
+    },
+    {
+      "brand": "42",
+      "id": "  1662",
+      "name": "JW5622"
+    },
+    {
+      "brand": "42",
+      "id": "  1663",
+      "name": "JW7630"
+    },
+    {
+      "brand": "42",
+      "id": "  1076",
+      "name": "Magnolia 7318"
+    },
+    {
+      "brand": "42",
+      "id": "  1077",
+      "name": "Magnolia 7325"
+    },
+    {
+      "brand": "42",
+      "id": "  1078",
+      "name": "Magnolia 7330"
+    },
+    {
+      "brand": "42",
+      "id": "  1079",
+      "name": "Magnolia 7360"
+    },
+    {
+      "brand": "42",
+      "id": "  1528",
+      "name": "Marie Osmond 200"
+    },
+    {
+      "brand": "42",
+      "id": "  1080",
+      "name": "MB-4N"
+    },
+    {
+      "brand": "42",
+      "id": "  1081",
+      "name": "MB4S"
+    },
+    {
+      "brand": "42",
+      "id": "  2446",
+      "name": "MC 5900"
+    },
+    {
+      "brand": "42",
+      "id": "  2381",
+      "name": "MC 9400"
+    },
+    {
+      "brand": "42",
+      "id": "  1082",
+      "name": "MC10000"
+    },
+    {
+      "brand": "42",
+      "id": "  1083",
+      "name": "MC10001"
+    },
+    {
+      "brand": "42",
+      "id": "  1084",
+      "name": "MC11000"
+    },
+    {
+      "brand": "42",
+      "id": "  1085",
+      "name": "MC12000"
+    },
+    {
+      "brand": "42",
+      "id": "  1086",
+      "name": "MC15000"
+    },
+    {
+      "brand": "42",
+      "id": "  1087",
+      "name": "MC200E"
+    },
+    {
+      "brand": "42",
+      "id": "  1678",
+      "name": "MC3000"
+    },
+    {
+      "brand": "42",
+      "id": "  1088",
+      "name": "MC300E"
+    },
+    {
+      "brand": "42",
+      "id": "  1089",
+      "name": "MC3500"
+    },
+    {
+      "brand": "42",
+      "id": "  1090",
+      "name": "MC350E"
+    },
+    {
+      "brand": "42",
+      "id": "  2435",
+      "name": "MC4000"
+    },
+    {
+      "brand": "42",
+      "id": "  1679",
+      "name": "MC4800QC"
+    },
+    {
+      "brand": "42",
+      "id": "  1677",
+      "name": "MC4900QC"
+    },
+    {
+      "brand": "42",
+      "id": "  1841",
+      "name": "MC5000"
+    },
+    {
+      "brand": "42",
+      "id": "  1680",
+      "name": "MC5700"
+    },
+    {
+      "brand": "42",
+      "id": "  1091",
+      "name": "MC6300"
+    },
+    {
+      "brand": "42",
+      "id": "  1092",
+      "name": "MC6500"
+    },
+    {
+      "brand": "42",
+      "id": "  1093",
+      "name": "MC6600"
+    },
+    {
+      "brand": "42",
+      "id": "  1094",
+      "name": "MC720"
+    },
+    {
+      "brand": "42",
+      "id": "  1095",
+      "name": "MC760"
+    },
+    {
+      "brand": "42",
+      "id": "  1600",
+      "name": "MC7700  QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  1842",
+      "name": "MC7700QPC"
+    },
+    {
+      "brand": "42",
+      "id": "  1096",
+      "name": "MC8000"
+    },
+    {
+      "brand": "42",
+      "id": "  1664",
+      "name": "MC8200QCPSE"
+    },
+    {
+      "brand": "42",
+      "id": "  1676",
+      "name": "MC8700"
+    },
+    {
+      "brand": "42",
+      "id": "  1843",
+      "name": "MC8900"
+    },
+    {
+      "brand": "42",
+      "id": "  1665",
+      "name": "MC8900SE"
+    },
+    {
+      "brand": "42",
+      "id": "  1097",
+      "name": "MC9000"
+    },
+    {
+      "brand": "42",
+      "id": "  2442",
+      "name": "MC9400 QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  1098",
+      "name": "MC9500"
+    },
+    {
+      "brand": "42",
+      "id": "  1099",
+      "name": "MC9700"
+    },
+    {
+      "brand": "42",
+      "id": "  1100",
+      "name": "MC9900"
+    },
+    {
+      "brand": "42",
+      "id": "  1101",
+      "name": "MCJNH7700QCP"
+    },
+    {
+      "brand": "42",
+      "id": "  1667",
+      "name": "Memory Craft 500E"
+    },
+    {
+      "brand": "42",
+      "id": "  2445",
+      "name": "MS 2522"
+    },
+    {
+      "brand": "42",
+      "id": "  1102",
+      "name": "MyStyle 100"
+    },
+    {
+      "brand": "42",
+      "id": "  2447",
+      "name": "New Home 7000"
+    },
+    {
+      "brand": "42",
+      "id": "  2448",
+      "name": "New Home SW2018E"
+    },
+    {
+      "brand": "42",
+      "id": "  1668",
+      "name": "NQM 2016"
+    },
+    {
+      "brand": "42",
+      "id": "  2443",
+      "name": "QC6019"
+    },
+    {
+      "brand": "42",
+      "id": "  2345",
+      "name": "QS2250"
+    },
+    {
+      "brand": "42",
+      "id": "  1103",
+      "name": "S-3015"
+    },
+    {
+      "brand": "42",
+      "id": "  1104",
+      "name": "S-7330"
+    },
+    {
+      "brand": "42",
+      "id": "  1105",
+      "name": "S-750"
+    },
+    {
+      "brand": "42",
+      "id": "  1106",
+      "name": "Sewist 500"
+    },
+    {
+      "brand": "42",
+      "id": "  1107",
+      "name": "SewMini"
+    },
+    {
+      "brand": "42",
+      "id": "  1108",
+      "name": "SewMini Beachcomber"
+    },
+    {
+      "brand": "42",
+      "id": "  1109",
+      "name": "SewMini Honeycomb"
+    },
+    {
+      "brand": "42",
+      "id": "  1110",
+      "name": "SewMini Merlot"
+    },
+    {
+      "brand": "42",
+      "id": "  2380",
+      "name": "Skyline 9"
+    },
+    {
+      "brand": "42",
+      "id": "  1669",
+      "name": "Skyline S5"
+    },
+    {
+      "brand": "42",
+      "id": "  1670",
+      "name": "Skyline S7"
+    },
+    {
+      "brand": "42",
+      "id": "  1111",
+      "name": "Skyline SKS5"
+    },
+    {
+      "brand": "43",
+      "id": "  1112",
+      "name": "E 80"
+    },
+    {
+      "brand": "43",
+      "id": "  1113",
+      "name": "Exceed Home Deco HZL-F300"
+    },
+    {
+      "brand": "43",
+      "id": "  1114",
+      "name": "Exceed Quilt \u0026 Pro HZL-F400"
+    },
+    {
+      "brand": "43",
+      "id": "  1115",
+      "name": "Exceed Quilt \u0026 Pro Special HZL-F600"
+    },
+    {
+      "brand": "43",
+      "id": "  1116",
+      "name": "HZL"
+    },
+    {
+      "brand": "43",
+      "id": "  1845",
+      "name": "HZL-G110"
+    },
+    {
+      "brand": "43",
+      "id": "  2464",
+      "name": "J-150QVP"
+    },
+    {
+      "brand": "43",
+      "id": "  1117",
+      "name": "T-100"
+    },
+    {
+      "brand": "43",
+      "id": "  1118",
+      "name": "TL 2010Q"
+    },
+    {
+      "brand": "43",
+      "id": "  1119",
+      "name": "TL 2200QVP"
+    },
+    {
+      "brand": "43",
+      "id": "  1120",
+      "name": "TL 98"
+    },
+    {
+      "brand": "43",
+      "id": "  1121",
+      "name": "TL 98Q"
+    },
+    {
+      "brand": "43",
+      "id": "  1122",
+      "name": "TL 98QE"
+    },
+     {
+      "brand": "44",
+      "id": "  1123",
+      "name": "622"
+    },
+    {
+      "brand": "44",
+      "id": "  2361",
+      "name": "622"
+    },
+    {
+      "brand": "44",
+      "id": "  1124",
+      "name": "633"
+    },
+    {
+      "brand": "44",
+      "id": "  1125",
+      "name": "Dutchess"
+    },
+    {
+      "brand": "44",
+      "id": "  1126",
+      "name": "Empress"
+    },
+    {
+      "brand": "44",
+      "id": "  1127",
+      "name": "Princess"
+    },
+    {
+      "brand": "44",
+      "id": "  1128",
+      "name": "Royal"
+    },
+    {
+      "brand": "45",
+      "id": "  1152",
+      "name": "10101"
+    },
+    {
+      "brand": "45",
+      "id": "  1132",
+      "name": "1020"
+    },
+    {
+      "brand": "45",
+      "id": "  1133",
+      "name": "1030"
+    },
+    {
+      "brand": "45",
+      "id": "  1134",
+      "name": "1040"
+    },
+    {
+      "brand": "45",
+      "id": "  1135",
+      "name": "1045"
+    },
+    {
+      "brand": "45",
+      "id": "  1136",
+      "name": "1050"
+    },
+    {
+      "brand": "45",
+      "id": "  1153",
+      "name": "11101"
+    },
+    {
+      "brand": "45",
+      "id": "  2367",
+      "name": "1204"
+    },
+    {
+      "brand": "45",
+      "id": "  1137",
+      "name": "1206"
+    },
+    {
+      "brand": "45",
+      "id": "  1138",
+      "name": "1230"
+    },
+    {
+      "brand": "45",
+      "id": "  1139",
+      "name": "1240"
+    },
+    {
+      "brand": "45",
+      "id": "  1140",
+      "name": "1250"
+    },
+    {
+      "brand": "45",
+      "id": "  1154",
+      "name": "12551"
+    },
+    {
+      "brand": "45",
+      "id": "  1155",
+      "name": "12621"
+    },
+    {
+      "brand": "45",
+      "id": "  1141",
+      "name": "1300"
+    },
+    {
+      "brand": "45",
+      "id": "  1142",
+      "name": "1318"
+    },
+    {
+      "brand": "45",
+      "id": "  1143",
+      "name": "1430"
+    },
+    {
+      "brand": "45",
+      "id": "  1144",
+      "name": "1431"
+    },
+    {
+      "brand": "45",
+      "id": "  1156",
+      "name": "14401"
+    },
+    {
+      "brand": "45",
+      "id": "  1157",
+      "name": "14501"
+    },
+    {
+      "brand": "45",
+      "id": "  1158",
+      "name": "14502"
+    },
+    {
+      "brand": "45",
+      "id": "  1159",
+      "name": "14571"
+    },
+    {
+      "brand": "45",
+      "id": "  1160",
+      "name": "14572"
+    },
+    {
+      "brand": "45",
+      "id": "  1129",
+      "name": "148"
+    },
+    {
+      "brand": "45",
+      "id": "  1145",
+      "name": "1500"
+    },
+    {
+      "brand": "45",
+      "id": "  1130",
+      "name": "158"
+    },
+    {
+      "brand": "45",
+      "id": "  2382",
+      "name": "158.1251"
+    },
+    {
+      "brand": "45",
+      "id": "  1846",
+      "name": "158.1345"
+    },
+    {
+      "brand": "45",
+      "id": "  1847",
+      "name": "158.1703"
+    },
+    {
+      "brand": "45",
+      "id": "  1848",
+      "name": "158.1774"
+    },
+    {
+      "brand": "45",
+      "id": "  1146",
+      "name": "1641"
+    },
+    {
+      "brand": "45",
+      "id": "  1147",
+      "name": "1750"
+    },
+    {
+      "brand": "45",
+      "id": "  1148",
+      "name": "1791"
+    },
+    {
+      "brand": "45",
+      "id": "  2407",
+      "name": "19365"
+    },
+    {
+      "brand": "45",
+      "id": "  1149",
+      "name": "1940"
+    },
+    {
+      "brand": "45",
+      "id": "  1150",
+      "name": "1941"
+    },
+    {
+      "brand": "45",
+      "id": "  1131",
+      "name": "385"
+    },
+    {
+      "brand": "45",
+      "id": "  1849",
+      "name": "385.162313"
+    },
+    {
+      "brand": "45",
+      "id": "  2346",
+      "name": "385.1883"
+    },
+    {
+      "brand": "45",
+      "id": "  2406",
+      "name": "385.1911"
+    },
+    {
+      "brand": "45",
+      "id": "  1151",
+      "name": "5186"
+    },
+    {
+      "brand": "45",
+      "id": "  2408",
+      "name": "Mini Ultra"
+    },
+    {
+      "brand": "45",
+      "id": "  2374",
+      "name": "Model 50"
+    },
+    {
+      "brand": "66",
+      "id": "  2340",
+      "name": "18x8"
+    },
+    {
+      "brand": "59",
+      "id": "  1640",
+      "name": "Prima"
+    },
+    {
+      "brand": "59",
+      "id": "  1641",
+      "name": "Sedere"
+    },
+     {
+      "brand": "46",
+      "id": "  1852",
+      "name": "3205FA"
+    },
+    {
+      "brand": "46",
+      "id": "  2347",
+      "name": "537FA"
+    },
+    {
+      "brand": "46",
+      "id": "  2364",
+      "name": "549"
+    },
+    {
+      "brand": "46",
+      "id": "  1161",
+      "name": "EC100"
+    },
+    {
+      "brand": "46",
+      "id": "  1162",
+      "name": "EV7"
+    },
+    {
+      "brand": "46",
+      "id": "  1163",
+      "name": "EX100"
+    },
+    {
+      "brand": "46",
+      "id": "  1164",
+      "name": "EX30"
+    },
+    {
+      "brand": "46",
+      "id": "  1165",
+      "name": "EX60"
+    },
+    {
+      "brand": "46",
+      "id": "  1166",
+      "name": "FA16"
+    },
+    {
+      "brand": "46",
+      "id": "  1167",
+      "name": "FB12"
+    },
+    {
+      "brand": "46",
+      "id": "  1168",
+      "name": "HD22"
+    },
+    {
+      "brand": "46",
+      "id": "  1850",
+      "name": "Logica"
+    },
+    {
+      "brand": "46",
+      "id": "  1169",
+      "name": "NE30"
+    },
+    {
+      "brand": "46",
+      "id": "  1170",
+      "name": "QS60"
+    },
+    {
+      "brand": "46",
+      "id": "  1851",
+      "name": "Silvia"
+    },
+    {
+      "brand": "46",
+      "id": "  2351",
+      "name": "Sofia 300"
+    },
+    {
+      "brand": "46",
+      "id": "  2348",
+      "name": "Supernova"
+    },
+    {
+      "brand": "46",
+      "id": "  1171",
+      "name": "TM8"
+    },
+     {
+      "brand": "47",
+      "id": "  1172",
+      "name": "914"
+    },
+    {
+      "brand": "47",
+      "id": "  1173",
+      "name": "915"
+    },
+    {
+      "brand": "47",
+      "id": "  1853",
+      "name": "Memory Craft 6000"
+    },
+    {
+      "brand": "47",
+      "id": "  1174",
+      "name": "No. 14"
+    },
+    {
+      "brand": "47",
+      "id": "  1175",
+      "name": "No. 15"
+    },
+    {
+      "brand": "47",
+      "id": "  1176",
+      "name": "No. 4"
+    },
+    {
+      "brand": "47",
+      "id": "  1177",
+      "name": "No. 5"
+    },
+    {
+      "brand": "47",
+      "id": "  1178",
+      "name": "Parlor Cabinet Treadle"
+    },
+    {
+      "brand": "47",
+      "id": "  1854",
+      "name": "SX 2122"
+    },
+     {
+      "brand": "48",
+      "id": "  2331",
+      "name": "18/8 368"
+    },
+    {
+      "brand": "48",
+      "id": "  1855",
+      "name": "18/8 387"
+    },
+    {
+      "brand": "48",
+      "id": "  1179",
+      "name": "Fun Quilter 17"
+    },
+    {
+      "brand": "48",
+      "id": "  1180",
+      "name": "Fun Quilter 17 (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1181",
+      "name": "Fun Quilter 20"
+    },
+    {
+      "brand": "48",
+      "id": "  1182",
+      "name": "Fun Quilter 20 (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1183",
+      "name": "Fun Quilter 23"
+    },
+    {
+      "brand": "48",
+      "id": "  1184",
+      "name": "Fun Quilter 23 (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1185",
+      "name": "Mid Arm Quilter"
+    },
+    {
+      "brand": "48",
+      "id": "  1186",
+      "name": "Mid Arm Quilter (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1187",
+      "name": "Pro Series 20"
+    },
+    {
+      "brand": "48",
+      "id": "  1188",
+      "name": "Pro Series 20 (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1189",
+      "name": "Pro Series 24"
+    },
+    {
+      "brand": "48",
+      "id": "  1190",
+      "name": "Pro Series 24 (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1191",
+      "name": "Pro Series 30"
+    },
+    {
+      "brand": "48",
+      "id": "  1192",
+      "name": "Pro Series 30 (Large Hook)"
+    },
+    {
+      "brand": "48",
+      "id": "  1193",
+      "name": "Quilting Bee"
+    },
+    {
+      "brand": "48",
+      "id": "  1194",
+      "name": "Quilting Bee (Large Hook)"
+    },
+    {
+      "brand": "49",
+      "id": "  1886",
+      "name": "1000"
+    },
+    {
+      "brand": "49",
+      "id": "  1887",
+      "name": "1151"
+    },
+    {
+      "brand": "49",
+      "id": "  1888",
+      "name": "1171"
+    },
+    {
+      "brand": "49",
+      "id": "  1889",
+      "name": "1196"
+    },
+    {
+      "brand": "49",
+      "id": "  1890",
+      "name": "1197"
+    },
+    {
+      "brand": "49",
+      "id": "  1891",
+      "name": "1211"
+    },
+    {
+      "brand": "49",
+      "id": "  1892",
+      "name": "1212"
+    },
+    {
+      "brand": "49",
+      "id": "  1893",
+      "name": "1213"
+    },
+    {
+      "brand": "49",
+      "id": "  1894",
+      "name": "1214"
+    },
+    {
+      "brand": "49",
+      "id": "  1895",
+      "name": "1216"
+    },
+    {
+      "brand": "49",
+      "id": "  1896",
+      "name": "1217"
+    },
+    {
+      "brand": "49",
+      "id": "  1700",
+      "name": "1222"
+    },
+    {
+      "brand": "49",
+      "id": "  1701",
+      "name": "1222E"
+    },
+    {
+      "brand": "49",
+      "id": "  1897",
+      "name": "1229"
+    },
+    {
+      "brand": "49",
+      "id": "  1861",
+      "name": "130"
+    },
+    {
+      "brand": "49",
+      "id": "  1899",
+      "name": "1371"
+    },
+    {
+      "brand": "49",
+      "id": "  1862",
+      "name": "138"
+    },
+    {
+      "brand": "49",
+      "id": "  2415",
+      "name": "145"
+    },
+    {
+      "brand": "49",
+      "id": "  1900",
+      "name": "1465"
+    },
+    {
+      "brand": "49",
+      "id": "  1901",
+      "name": "1467"
+    },
+    {
+      "brand": "49",
+      "id": "  1902",
+      "name": "1469"
+    },
+    {
+      "brand": "49",
+      "id": "  1903",
+      "name": "1471"
+    },
+    {
+      "brand": "49",
+      "id": "  1904",
+      "name": "1472"
+    },
+    {
+      "brand": "49",
+      "id": "  1905",
+      "name": "1473"
+    },
+    {
+      "brand": "49",
+      "id": "  1906",
+      "name": "1475"
+    },
+    {
+      "brand": "49",
+      "id": "  1907",
+      "name": "1475CD"
+    },
+    {
+      "brand": "49",
+      "id": "  2294",
+      "name": "1495"
+    },
+    {
+      "brand": "49",
+      "id": "  1908",
+      "name": "1520"
+    },
+    {
+      "brand": "49",
+      "id": "  1909",
+      "name": "1522"
+    },
+    {
+      "brand": "49",
+      "id": "  1910",
+      "name": "1524"
+    },
+    {
+      "brand": "49",
+      "id": "  1911",
+      "name": "1525"
+    },
+    {
+      "brand": "49",
+      "id": "  1912",
+      "name": "1526"
+    },
+    {
+      "brand": "49",
+      "id": "  1913",
+      "name": "1527"
+    },
+    {
+      "brand": "49",
+      "id": "  1914",
+      "name": "1530"
+    },
+    {
+      "brand": "49",
+      "id": "  1915",
+      "name": "1532"
+    },
+    {
+      "brand": "49",
+      "id": "  1916",
+      "name": "1534"
+    },
+    {
+      "brand": "49",
+      "id": "  1917",
+      "name": "1536"
+    },
+    {
+      "brand": "49",
+      "id": "  1918",
+      "name": "1540"
+    },
+    {
+      "brand": "49",
+      "id": "  1919",
+      "name": "1542"
+    },
+    {
+      "brand": "49",
+      "id": "  1920",
+      "name": "1546"
+    },
+    {
+      "brand": "49",
+      "id": "  1210",
+      "name": "18x8 Longarm"
+    },
+    {
+      "brand": "49",
+      "id": "  1921",
+      "name": "2010"
+    },
+    {
+      "brand": "49",
+      "id": "  1922",
+      "name": "2014"
+    },
+    {
+      "brand": "49",
+      "id": "  1923",
+      "name": "2020"
+    },
+    {
+      "brand": "49",
+      "id": "  1924",
+      "name": "2024"
+    },
+    {
+      "brand": "49",
+      "id": "  1925",
+      "name": "2025"
+    },
+    {
+      "brand": "49",
+      "id": "  1926",
+      "name": "2026"
+    },
+    {
+      "brand": "49",
+      "id": "  1927",
+      "name": "2027"
+    },
+    {
+      "brand": "49",
+      "id": "  1929",
+      "name": "2030"
+    },
+    {
+      "brand": "49",
+      "id": "  1930",
+      "name": "2032"
+    },
+    {
+      "brand": "49",
+      "id": "  1931",
+      "name": "2034"
+    },
+    {
+      "brand": "49",
+      "id": "  1932",
+      "name": "2036"
+    },
+    {
+      "brand": "49",
+      "id": "  1195",
+      "name": "204"
+    },
+    {
+      "brand": "49",
+      "id": "  1933",
+      "name": "2040"
+    },
+    {
+      "brand": "49",
+      "id": "  1934",
+      "name": "2042"
+    },
+    {
+      "brand": "49",
+      "id": "  1935",
+      "name": "2044"
+    },
+    {
+      "brand": "49",
+      "id": "  1936",
+      "name": "2046"
+    },
+    {
+      "brand": "49",
+      "id": "  1196",
+      "name": "205"
+    },
+    {
+      "brand": "49",
+      "id": "  1937",
+      "name": "2054"
+    },
+    {
+      "brand": "49",
+      "id": "  1938",
+      "name": "2056"
+    },
+    {
+      "brand": "49",
+      "id": "  1197",
+      "name": "206"
+    },
+    {
+      "brand": "49",
+      "id": "  1198",
+      "name": "207"
+    },
+    {
+      "brand": "49",
+      "id": "  1199",
+      "name": "208"
+    },
+    {
+      "brand": "49",
+      "id": "  1200",
+      "name": "209"
+    },
+    {
+      "brand": "49",
+      "id": "  1201",
+      "name": "210"
+    },
+    {
+      "brand": "49",
+      "id": "  1202",
+      "name": "211"
+    },
+    {
+      "brand": "49",
+      "id": "  1939",
+      "name": "2124"
+    },
+    {
+      "brand": "49",
+      "id": "  1863",
+      "name": "213"
+    },
+    {
+      "brand": "49",
+      "id": "  1940",
+      "name": "2140"
+    },
+    {
+      "brand": "49",
+      "id": "  1941",
+      "name": "2144"
+    },
+    {
+      "brand": "49",
+      "id": "  1942",
+      "name": "2170"
+    },
+    {
+      "brand": "49",
+      "id": "  1864",
+      "name": "229"
+    },
+    {
+      "brand": "49",
+      "id": "  1865",
+      "name": "230"
+    },
+    {
+      "brand": "49",
+      "id": "  1866",
+      "name": "234"
+    },
+    {
+      "brand": "49",
+      "id": "  1867",
+      "name": "238"
+    },
+    {
+      "brand": "49",
+      "id": "  1868",
+      "name": "260"
+    },
+    {
+      "brand": "49",
+      "id": "  1869",
+      "name": "261"
+    },
+    {
+      "brand": "49",
+      "id": "  1870",
+      "name": "262"
+    },
+    {
+      "brand": "49",
+      "id": "  1857",
+      "name": "30"
+    },
+    {
+      "brand": "49",
+      "id": "  1871",
+      "name": "331"
+    },
+    {
+      "brand": "49",
+      "id": "  1872",
+      "name": "332"
+    },
+    {
+      "brand": "49",
+      "id": "  1873",
+      "name": "333"
+    },
+    {
+      "brand": "49",
+      "id": "  1874",
+      "name": "335"
+    },
+    {
+      "brand": "49",
+      "id": "  1875",
+      "name": "362"
+    },
+    {
+      "brand": "49",
+      "id": "  1207",
+      "name": "4240"
+    },
+    {
+      "brand": "49",
+      "id": "  1208",
+      "name": "4250"
+    },
+    {
+      "brand": "49",
+      "id": "  1209",
+      "name": "4260"
+    },
+    {
+      "brand": "49",
+      "id": "  1876",
+      "name": "437"
+    },
+    {
+      "brand": "49",
+      "id": "  1877",
+      "name": "438"
+    },
+    {
+      "brand": "49",
+      "id": "  1878",
+      "name": "439"
+    },
+    {
+      "brand": "49",
+      "id": "  1879",
+      "name": "463"
+    },
+    {
+      "brand": "49",
+      "id": "  1880",
+      "name": "480"
+    },
+    {
+      "brand": "49",
+      "id": "  1881",
+      "name": "481"
+    },
+    {
+      "brand": "49",
+      "id": "  1882",
+      "name": "483"
+    },
+    {
+      "brand": "49",
+      "id": "  1203",
+      "name": "521"
+    },
+    {
+      "brand": "49",
+      "id": "  1204",
+      "name": "541"
+    },
+    {
+      "brand": "49",
+      "id": "  1883",
+      "name": "563"
+    },
+    {
+      "brand": "49",
+      "id": "  1856",
+      "name": "6"
+    },
+    {
+      "brand": "49",
+      "id": "  1858",
+      "name": "60"
+    },
+    {
+      "brand": "49",
+      "id": "  1943",
+      "name": "6085"
+    },
+    {
+      "brand": "49",
+      "id": "  1567",
+      "name": "6091"
+    },
+    {
+      "brand": "49",
+      "id": "  1944",
+      "name": "6112"
+    },
+    {
+      "brand": "49",
+      "id": "  1945",
+      "name": "6120"
+    },
+    {
+      "brand": "49",
+      "id": "  1946",
+      "name": "6122"
+    },
+    {
+      "brand": "49",
+      "id": "  1947",
+      "name": "6150"
+    },
+    {
+      "brand": "49",
+      "id": "  1948",
+      "name": "6152"
+    },
+    {
+      "brand": "49",
+      "id": "  1949",
+      "name": "6230"
+    },
+    {
+      "brand": "49",
+      "id": "  1950",
+      "name": "6232"
+    },
+    {
+      "brand": "49",
+      "id": "  1951",
+      "name": "6250"
+    },
+    {
+      "brand": "49",
+      "id": "  1952",
+      "name": "6252"
+    },
+    {
+      "brand": "49",
+      "id": "  1205",
+      "name": "721"
+    },
+    {
+      "brand": "49",
+      "id": "  1206",
+      "name": "741"
+    },
+    {
+      "brand": "49",
+      "id": "  1953",
+      "name": "7510"
+    },
+    {
+      "brand": "49",
+      "id": "  1954",
+      "name": "7530"
+    },
+    {
+      "brand": "49",
+      "id": "  1955",
+      "name": "7550"
+    },
+    {
+      "brand": "49",
+      "id": "  1956",
+      "name": "7560"
+    },
+    {
+      "brand": "49",
+      "id": "  1957",
+      "name": "7562"
+    },
+    {
+      "brand": "49",
+      "id": "  1958",
+      "name": "7570"
+    },
+    {
+      "brand": "49",
+      "id": "  1859",
+      "name": "79"
+    },
+    {
+      "brand": "49",
+      "id": "  1884",
+      "name": "807"
+    },
+    {
+      "brand": "49",
+      "id": "  1860",
+      "name": "90"
+    },
+    {
+      "brand": "49",
+      "id": "  1885",
+      "name": "900"
+    },
+    {
+      "brand": "49",
+      "id": "  1959",
+      "name": "9063"
+    },
+    {
+      "brand": "49",
+      "id": "  1211",
+      "name": "Ambition 1.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1212",
+      "name": "Ambition 1.5"
+    },
+    {
+      "brand": "49",
+      "id": "  2393",
+      "name": "Ambition 2.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1213",
+      "name": "Ambition Essential"
+    },
+    {
+      "brand": "49",
+      "id": "  2454",
+      "name": "Classic 2023"
+    },
+    {
+      "brand": "49",
+      "id": "  2300",
+      "name": "Classic Style 1525"
+    },
+    {
+      "brand": "49",
+      "id": "  2308",
+      "name": "ClassicStyle"
+    },
+    {
+      "brand": "49",
+      "id": "  1588",
+      "name": "Classicstyle 2023"
+    },
+    {
+      "brand": "49",
+      "id": "  1587",
+      "name": "Classicstyle 2025"
+    },
+    {
+      "brand": "49",
+      "id": "  1585",
+      "name": "Classicstyle 2027"
+    },
+    {
+      "brand": "49",
+      "id": "  1586",
+      "name": "Classicstyle 2029"
+    },
+    {
+      "brand": "49",
+      "id": "  1214",
+      "name": "Creative 1.5"
+    },
+    {
+      "brand": "49",
+      "id": "  2305",
+      "name": "Creative 1425CD"
+    },
+    {
+      "brand": "49",
+      "id": "  2304",
+      "name": "Creative 1439"
+    },
+    {
+      "brand": "49",
+      "id": "  2289",
+      "name": "Creative 1471"
+    },
+    {
+      "brand": "49",
+      "id": "  2288",
+      "name": "Creative 1473"
+    },
+    {
+      "brand": "49",
+      "id": "  2302",
+      "name": "Creative 1475CD"
+    },
+    {
+      "brand": "49",
+      "id": "  1215",
+      "name": "Creative 2.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1216",
+      "name": "Creative 2124"
+    },
+    {
+      "brand": "49",
+      "id": "  1217",
+      "name": "Creative 2134"
+    },
+    {
+      "brand": "49",
+      "id": "  1218",
+      "name": "Creative 2140"
+    },
+    {
+      "brand": "49",
+      "id": "  1219",
+      "name": "Creative 2144"
+    },
+    {
+      "brand": "49",
+      "id": "  1220",
+      "name": "Creative 2170"
+    },
+    {
+      "brand": "49",
+      "id": "  1221",
+      "name": "Creative 3.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1222",
+      "name": "Creative 4.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1223",
+      "name": "Creative 4.5"
+    },
+    {
+      "brand": "49",
+      "id": "  1593",
+      "name": "Creative 7530"
+    },
+    {
+      "brand": "49",
+      "id": "  1224",
+      "name": "Creative 7550"
+    },
+    {
+      "brand": "49",
+      "id": "  1591",
+      "name": "Creative 7560"
+    },
+    {
+      "brand": "49",
+      "id": "  1592",
+      "name": "Creative 7562"
+    },
+    {
+      "brand": "49",
+      "id": "  1225",
+      "name": "Creative 7570"
+    },
+    {
+      "brand": "49",
+      "id": "  1226",
+      "name": "Creative Performance"
+    },
+    {
+      "brand": "49",
+      "id": "  1227",
+      "name": "Creative Sensation"
+    },
+    {
+      "brand": "49",
+      "id": "  1601",
+      "name": "Creative Sensation Pro"
+    },
+    {
+      "brand": "49",
+      "id": "  2422",
+      "name": "Creative Sensation Pro II"
+    },
+    {
+      "brand": "49",
+      "id": "  1228",
+      "name": "Creative Vision"
+    },
+    {
+      "brand": "49",
+      "id": "  1229",
+      "name": "Expression"
+    },
+    {
+      "brand": "49",
+      "id": "  1610",
+      "name": "Expression 150"
+    },
+    {
+      "brand": "49",
+      "id": "  1609",
+      "name": "Expression 2.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1584",
+      "name": "Expression 2024"
+    },
+    {
+      "brand": "49",
+      "id": "  1583",
+      "name": "Expression 2026"
+    },
+    {
+      "brand": "49",
+      "id": "  1582",
+      "name": "Expression 2028"
+    },
+    {
+      "brand": "49",
+      "id": "  1581",
+      "name": "Expression 2034"
+    },
+    {
+      "brand": "49",
+      "id": "  1580",
+      "name": "Expression 2036"
+    },
+    {
+      "brand": "49",
+      "id": "  2453",
+      "name": "Expression 2038"
+    },
+    {
+      "brand": "49",
+      "id": "  2455",
+      "name": "Expression 2048"
+    },
+    {
+      "brand": "49",
+      "id": "  1608",
+      "name": "Expression 3.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1607",
+      "name": "Expression 3.2"
+    },
+    {
+      "brand": "49",
+      "id": "  1606",
+      "name": "Expression 3.5"
+    },
+    {
+      "brand": "49",
+      "id": "  2397",
+      "name": "Expression 4.2"
+    },
+    {
+      "brand": "49",
+      "id": "  1569",
+      "name": "Freestyle 1522"
+    },
+    {
+      "brand": "49",
+      "id": "  1568",
+      "name": "Freestyle 1527"
+    },
+    {
+      "brand": "49",
+      "id": "  2295",
+      "name": "Grand Quilter Hobby 1200"
+    },
+    {
+      "brand": "49",
+      "id": "  1576",
+      "name": "Hobby 1016"
+    },
+    {
+      "brand": "49",
+      "id": "  1575",
+      "name": "Hobby 1020"
+    },
+    {
+      "brand": "49",
+      "id": "  1574",
+      "name": "Hobby 1022"
+    },
+    {
+      "brand": "49",
+      "id": "  1573",
+      "name": "Hobby 1030"
+    },
+    {
+      "brand": "49",
+      "id": "  1572",
+      "name": "Hobby 1032"
+    },
+    {
+      "brand": "49",
+      "id": "  1571",
+      "name": "Hobby 1040"
+    },
+    {
+      "brand": "49",
+      "id": "  1570",
+      "name": "Hobby 1042"
+    },
+    {
+      "brand": "49",
+      "id": "  1613",
+      "name": "Hobby 1122"
+    },
+    {
+      "brand": "49",
+      "id": "  1612",
+      "name": "Hobby 1132"
+    },
+    {
+      "brand": "49",
+      "id": "  1611",
+      "name": "Hobby 1142"
+    },
+    {
+      "brand": "49",
+      "id": "  2296",
+      "name": "Hobby 1200"
+    },
+    {
+      "brand": "49",
+      "id": "  2290",
+      "name": "Hobby 1200 Grand Quilter"
+    },
+    {
+      "brand": "49",
+      "id": "  1536",
+      "name": "Hobby 301"
+    },
+    {
+      "brand": "49",
+      "id": "  1535",
+      "name": "Hobby 303"
+    },
+    {
+      "brand": "49",
+      "id": "  1534",
+      "name": "Hobby 307"
+    },
+    {
+      "brand": "49",
+      "id": "  1533",
+      "name": "Hobby 309"
+    },
+    {
+      "brand": "49",
+      "id": "  1548",
+      "name": "Hobby 4240"
+    },
+    {
+      "brand": "49",
+      "id": "  1547",
+      "name": "Hobby 4250"
+    },
+    {
+      "brand": "49",
+      "id": "  1546",
+      "name": "Hobby 4260"
+    },
+    {
+      "brand": "49",
+      "id": "  1230",
+      "name": "Hobby A"
+    },
+    {
+      "brand": "49",
+      "id": "  1231",
+      "name": "Hobby B"
+    },
+    {
+      "brand": "49",
+      "id": "  1232",
+      "name": "Hobby K"
+    },
+    {
+      "brand": "49",
+      "id": "  2309",
+      "name": "Hobbymatic 935"
+    },
+    {
+      "brand": "49",
+      "id": "  1233",
+      "name": "Passport"
+    },
+    {
+      "brand": "49",
+      "id": "  1597",
+      "name": "Performance 2054"
+    },
+    {
+      "brand": "49",
+      "id": "  1596",
+      "name": "Performance 2056"
+    },
+    {
+      "brand": "49",
+      "id": "  1594",
+      "name": "Performance 2058"
+    },
+    {
+      "brand": "49",
+      "id": "  1234",
+      "name": "Performance 5.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1235",
+      "name": "Powerquilter 16.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1236",
+      "name": "Powerquilter p3"
+    },
+    {
+      "brand": "49",
+      "id": "  1928",
+      "name": "Quilt 2027"
+    },
+    {
+      "brand": "49",
+      "id": "  1237",
+      "name": "Quilt Ambition 2.0"
+    },
+    {
+      "brand": "49",
+      "id": "  2298",
+      "name": "Quilt Expression 150 Anniversary Limited Edition"
+    },
+    {
+      "brand": "49",
+      "id": "  1579",
+      "name": "Quilt Expression 2042"
+    },
+    {
+      "brand": "49",
+      "id": "  1578",
+      "name": "Quilt Expression 2044"
+    },
+    {
+      "brand": "49",
+      "id": "  1577",
+      "name": "Quilt Expression 2046"
+    },
+    {
+      "brand": "49",
+      "id": "  1595",
+      "name": "Quilt Expression 2048"
+    },
+    {
+      "brand": "49",
+      "id": "  1617",
+      "name": "Quilt Expression 4.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1238",
+      "name": "Quilt Expression 4.2"
+    },
+    {
+      "brand": "49",
+      "id": "  2452",
+      "name": "Select 150"
+    },
+    {
+      "brand": "49",
+      "id": "  1545",
+      "name": "Select 1520"
+    },
+    {
+      "brand": "49",
+      "id": "  1544",
+      "name": "Select 1526"
+    },
+    {
+      "brand": "49",
+      "id": "  1543",
+      "name": "Select 1528"
+    },
+    {
+      "brand": "49",
+      "id": "  1558",
+      "name": "Select 1530"
+    },
+    {
+      "brand": "49",
+      "id": "  1557",
+      "name": "Select 1536"
+    },
+    {
+      "brand": "49",
+      "id": "  1556",
+      "name": "Select 1538"
+    },
+    {
+      "brand": "49",
+      "id": "  1555",
+      "name": "Select 1540"
+    },
+    {
+      "brand": "49",
+      "id": "  1554",
+      "name": "Select 1546"
+    },
+    {
+      "brand": "49",
+      "id": "  1553",
+      "name": "Select 1548"
+    },
+    {
+      "brand": "49",
+      "id": "  1542",
+      "name": "Select 2.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1541",
+      "name": "Select 2.2"
+    },
+    {
+      "brand": "49",
+      "id": "  1552",
+      "name": "Select 3.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1551",
+      "name": "Select 3.2"
+    },
+    {
+      "brand": "49",
+      "id": "  1550",
+      "name": "Select 4.0"
+    },
+    {
+      "brand": "49",
+      "id": "  1549",
+      "name": "Select 4.2"
+    },
+    {
+      "brand": "49",
+      "id": "  2330",
+      "name": "Smarter C 1100 pre"
+    },
+    {
+      "brand": "49",
+      "id": "  2307",
+      "name": "Smarter C1100 Pro"
+    },
+    {
+      "brand": "49",
+      "id": "  1898",
+      "name": "Synchrotronic 1229"
+    },
+    {
+      "brand": "49",
+      "id": "  2299",
+      "name": "Tiptronic 1171"
+    },
+    {
+      "brand": "49",
+      "id": "  1540",
+      "name": "Tiptronic 2010"
+    },
+    {
+      "brand": "49",
+      "id": "  1539",
+      "name": "Tiptronic 2020"
+    },
+    {
+      "brand": "49",
+      "id": "  1590",
+      "name": "Tiptronic 2030"
+    },
+    {
+      "brand": "49",
+      "id": "  1589",
+      "name": "Tiptronic 2040"
+    },
+    {
+      "brand": "49",
+      "id": "  1538",
+      "name": "Tiptronic 6110"
+    },
+    {
+      "brand": "49",
+      "id": "  1537",
+      "name": "Tiptronic 6112"
+    },
+    {
+      "brand": "49",
+      "id": "  1566",
+      "name": "Tiptronic 6120"
+    },
+    {
+      "brand": "49",
+      "id": "  1565",
+      "name": "Tiptronic 6122"
+    },
+    {
+      "brand": "49",
+      "id": "  1564",
+      "name": "Tiptronic 6150"
+    },
+    {
+      "brand": "49",
+      "id": "  1563",
+      "name": "Tiptronic 6152"
+    },
+    {
+      "brand": "49",
+      "id": "  1562",
+      "name": "Tiptronic 6230"
+    },
+    {
+      "brand": "49",
+      "id": "  1561",
+      "name": "Tiptronic 6232"
+    },
+    {
+      "brand": "49",
+      "id": "  1560",
+      "name": "Tiptronic 6250"
+    },
+    {
+      "brand": "49",
+      "id": "  1559",
+      "name": "Tiptronic 6270"
+    },
+    {
+      "brand": "49",
+      "id": "  1532",
+      "name": "Varimatic 6085"
+    },
+    {
+      "brand": "49",
+      "id": "  1531",
+      "name": "Varimatic 6086"
+    },
+    {
+      "brand": "49",
+      "id": "  1530",
+      "name": "Varimatic 6087"
+    },
+    {
+      "brand": "50",
+      "id": "  1239",
+      "name": "P2412"
+    },
+    {
+      "brand": "50",
+      "id": "  1240",
+      "name": "SS1709"
+    },
+     {
+      "brand": "65",
+      "id": "  2335",
+      "name": "Grace"
+    },
+        {
+      "brand": "51",
+      "id": "  1249",
+      "name": "2600"
+    },
+    {
+      "brand": "51",
+      "id": "  1263",
+      "name": "2800/3300"
+    },
+    {
+      "brand": "51",
+      "id": "  1264",
+      "name": "2900/3500"
+    },
+    {
+      "brand": "51",
+      "id": "  1250",
+      "name": "2950"
+    },
+    {
+      "brand": "51",
+      "id": "  1251",
+      "name": "3400"
+    },
+    {
+      "brand": "51",
+      "id": "  1252",
+      "name": "3600"
+    },
+    {
+      "brand": "51",
+      "id": "  1253",
+      "name": "4001"
+    },
+    {
+      "brand": "51",
+      "id": "  1254",
+      "name": "4003"
+    },
+    {
+      "brand": "51",
+      "id": "  1241",
+      "name": "414"
+    },
+    {
+      "brand": "51",
+      "id": "  1242",
+      "name": "500"
+    },
+    {
+      "brand": "51",
+      "id": "  1243",
+      "name": "515"
+    },
+    {
+      "brand": "51",
+      "id": "  1244",
+      "name": "525"
+    },
+    {
+      "brand": "51",
+      "id": "  1265",
+      "name": "555FA"
+    },
+    {
+      "brand": "51",
+      "id": "  1245",
+      "name": "606"
+    },
+    {
+      "brand": "51",
+      "id": "  1246",
+      "name": "650"
+    },
+    {
+      "brand": "51",
+      "id": "  1266",
+      "name": "666FA"
+    },
+    {
+      "brand": "51",
+      "id": "  1267",
+      "name": "800R"
+    },
+    {
+      "brand": "51",
+      "id": "  1247",
+      "name": "805"
+    },
+    {
+      "brand": "51",
+      "id": "  1268",
+      "name": "806/807"
+    },
+    {
+      "brand": "51",
+      "id": "  1269",
+      "name": "808E"
+    },
+    {
+      "brand": "51",
+      "id": "  1255",
+      "name": "8400"
+    },
+    {
+      "brand": "51",
+      "id": "  1256",
+      "name": "8500"
+    },
+    {
+      "brand": "51",
+      "id": "  1248",
+      "name": "888"
+    },
+    {
+      "brand": "51",
+      "id": "  1270",
+      "name": "906E"
+    },
+    {
+      "brand": "51",
+      "id": "  1257",
+      "name": "9150"
+    },
+    {
+      "brand": "51",
+      "id": "  1258",
+      "name": "9160"
+    },
+    {
+      "brand": "51",
+      "id": "  1259",
+      "name": "9600"
+    },
+    {
+      "brand": "51",
+      "id": "  1260",
+      "name": "9700"
+    },
+    {
+      "brand": "51",
+      "id": "  1261",
+      "name": "9800"
+    },
+    {
+      "brand": "51",
+      "id": "  1262",
+      "name": "9900"
+    },
+    {
+      "brand": "51",
+      "id": "  1271",
+      "name": "R551"
+    },
+    {
+      "brand": "51",
+      "id": "  1272",
+      "name": "R552"
+    },
+    {
+      "brand": "51",
+      "id": "  1273",
+      "name": "R700"
+    },
+    {
+      "brand": "51",
+      "id": "  1274",
+      "name": "R751"
+    },
+    {
+      "brand": "51",
+      "id": "  1275",
+      "name": "RE571"
+    },
+    {
+      "brand": "51",
+      "id": "  1276",
+      "name": "RE581/RE591"
+    },
+    {
+      "brand": "51",
+      "id": "  1277",
+      "name": "RM540"
+    },
+    {
+      "brand": "51",
+      "id": "  1278",
+      "name": "RM570"
+    },
+     {
+      "brand": "52",
+      "id": "  1279",
+      "name": "S05 Quilt and Craft"
+    },
+    {
+      "brand": "52",
+      "id": "  1280",
+      "name": "S180"
+    },
+    {
+      "brand": "52",
+      "id": "  1281",
+      "name": "SA1100 American Denim"
+    },
+    {
+      "brand": "52",
+      "id": "  1282",
+      "name": "SA1500 Creative Spirit"
+    },
+    {
+      "brand": "52",
+      "id": "  1283",
+      "name": "SA1600 Liberty"
+    },
+    {
+      "brand": "52",
+      "id": "  1284",
+      "name": "SA200 Pioneer II"
+    },
+    {
+      "brand": "52",
+      "id": "  1285",
+      "name": "SA2200 Creative Spirit Plus"
+    },
+    {
+      "brand": "52",
+      "id": "  1286",
+      "name": "SB700T"
+    },
+    {
+      "brand": "52",
+      "id": "  1287",
+      "name": "SE1 Embroidery"
+    },
+    {
+      "brand": "52",
+      "id": "  1288",
+      "name": "SE2 Embroidery"
+    },
+    {
+      "brand": "52",
+      "id": "  1289",
+      "name": "SE3 Embroidery System"
+    },
+    {
+      "brand": "52",
+      "id": "  1290",
+      "name": "Simplicity Embroidery"
+    },
+    {
+      "brand": "52",
+      "id": "  1291",
+      "name": "SL1000"
+    },
+    {
+      "brand": "52",
+      "id": "  1292",
+      "name": "SL1150"
+    },
+    {
+      "brand": "52",
+      "id": "  1293",
+      "name": "SL1170"
+    },
+    {
+      "brand": "52",
+      "id": "  1294",
+      "name": "SL1200"
+    },
+    {
+      "brand": "52",
+      "id": "  1295",
+      "name": "SL12070"
+    },
+    {
+      "brand": "52",
+      "id": "  1296",
+      "name": "SL1220"
+    },
+    {
+      "brand": "52",
+      "id": "  1297",
+      "name": "SL1400"
+    },
+    {
+      "brand": "52",
+      "id": "  1298",
+      "name": "SL1500"
+    },
+    {
+      "brand": "52",
+      "id": "  1299",
+      "name": "SL1650"
+    },
+    {
+      "brand": "52",
+      "id": "  1300",
+      "name": "SL237"
+    },
+    {
+      "brand": "52",
+      "id": "  1301",
+      "name": "SL2507"
+    },
+    {
+      "brand": "52",
+      "id": "  1302",
+      "name": "SL4700"
+    },
+    {
+      "brand": "52",
+      "id": "  1303",
+      "name": "SL8020"
+    },
+    {
+      "brand": "52",
+      "id": "  1304",
+      "name": "SL8130"
+    },
+    {
+      "brand": "52",
+      "id": "  1305",
+      "name": "SL8220"
+    },
+    {
+      "brand": "52",
+      "id": "  1306",
+      "name": "SL9000"
+    },
+    {
+      "brand": "52",
+      "id": "  1307",
+      "name": "SL9130"
+    },
+    {
+      "brand": "52",
+      "id": "  1308",
+      "name": "SL9150"
+    },
+    {
+      "brand": "52",
+      "id": "  1309",
+      "name": "SL9240"
+    },
+    {
+      "brand": "52",
+      "id": "  1310",
+      "name": "SW210"
+    },
+    {
+      "brand": "52",
+      "id": "  1311",
+      "name": "SW2145"
+    },
+    {
+      "brand": "52",
+      "id": "  2292",
+      "name": "SW240"
+    },
+     {
+      "brand": "53",
+      "id": "  1359",
+      "name": "1 One"
+    },
+    {
+      "brand": "53",
+      "id": "  1360",
+      "name": "1+ One Plus"
+    },
+    {
+      "brand": "53",
+      "id": "  2084",
+      "name": "101"
+    },
+    {
+      "brand": "53",
+      "id": "  2153",
+      "name": "1030"
+    },
+    {
+      "brand": "53",
+      "id": "  2154",
+      "name": "1036"
+    },
+    {
+      "brand": "53",
+      "id": "  2238",
+      "name": "1040G"
+    },
+    {
+      "brand": "53",
+      "id": "  2155",
+      "name": "1060"
+    },
+    {
+      "brand": "53",
+      "id": "  1312",
+      "name": "1105"
+    },
+    {
+      "brand": "53",
+      "id": "  1313",
+      "name": "1116"
+    },
+    {
+      "brand": "53",
+      "id": "  1314",
+      "name": "1120"
+    },
+    {
+      "brand": "53",
+      "id": "  1315",
+      "name": "1130"
+    },
+    {
+      "brand": "53",
+      "id": "  2239",
+      "name": "115-1"
+    },
+    {
+      "brand": "53",
+      "id": "  2085",
+      "name": "118"
+    },
+    {
+      "brand": "53",
+      "id": "  2156",
+      "name": "1200"
+    },
+    {
+      "brand": "53",
+      "id": "  1361",
+      "name": "1200 Futura Atheana"
+    },
+    {
+      "brand": "53",
+      "id": "  1362",
+      "name": "1200 Touch-Tronic"
+    },
+    {
+      "brand": "53",
+      "id": "  1363",
+      "name": "121C"
+    },
+    {
+      "brand": "53",
+      "id": "  1364",
+      "name": "121D"
+    },
+    {
+      "brand": "53",
+      "id": "  2240",
+      "name": "132Q"
+    },
+    {
+      "brand": "53",
+      "id": "  2241",
+      "name": "1400Q"
+    },
+    {
+      "brand": "53",
+      "id": "  1365",
+      "name": "1408 Promise"
+    },
+    {
+      "brand": "53",
+      "id": "  1366",
+      "name": "1409 Promise"
+    },
+    {
+      "brand": "53",
+      "id": "  1367",
+      "name": "1412 Promise"
+    },
+    {
+      "brand": "53",
+      "id": "  2384",
+      "name": "15"
+    },
+    {
+      "brand": "53",
+      "id": "  2157",
+      "name": "1500"
+    },
+    {
+      "brand": "53",
+      "id": "  1368",
+      "name": "1507WC"
+    },
+    {
+      "brand": "53",
+      "id": "  1369",
+      "name": "1512 Promise II"
+    },
+    {
+      "brand": "53",
+      "id": "  1316",
+      "name": "1525"
+    },
+    {
+      "brand": "53",
+      "id": "  1370",
+      "name": "160 Anniversay Addition"
+    },
+    {
+      "brand": "53",
+      "id": "  1317",
+      "name": "1725"
+    },
+    {
+      "brand": "53",
+      "id": "  1318",
+      "name": "1732"
+    },
+    {
+      "brand": "53",
+      "id": "  1319",
+      "name": "1748"
+    },
+    {
+      "brand": "53",
+      "id": "  2086",
+      "name": "185"
+    },
+    {
+      "brand": "53",
+      "id": "  2242",
+      "name": "188K"
+    },
+    {
+      "brand": "53",
+      "id": "  2243",
+      "name": "191D300A"
+    },
+    {
+      "brand": "53",
+      "id": "  2087",
+      "name": "192"
+    },
+    {
+      "brand": "53",
+      "id": "  2158",
+      "name": "2000"
+    },
+    {
+      "brand": "53",
+      "id": "  1371",
+      "name": "2000 Futura Atheana"
+    },
+    {
+      "brand": "53",
+      "id": "  1372",
+      "name": "2000 Touch-Tronic"
+    },
+    {
+      "brand": "53",
+      "id": "  2159",
+      "name": "2001"
+    },
+    {
+      "brand": "53",
+      "id": "  1373",
+      "name": "2001 Futura Atheana"
+    },
+    {
+      "brand": "53",
+      "id": "  1374",
+      "name": "2001 Touch-Tronic"
+    },
+    {
+      "brand": "53",
+      "id": "  2160",
+      "name": "2005"
+    },
+    {
+      "brand": "53",
+      "id": "  1375",
+      "name": "2009 Athena"
+    },
+    {
+      "brand": "53",
+      "id": "  2088",
+      "name": "201"
+    },
+    {
+      "brand": "53",
+      "id": "  2244",
+      "name": "201-2"
+    },
+    {
+      "brand": "53",
+      "id": "  2161",
+      "name": "2010"
+    },
+    {
+      "brand": "53",
+      "id": "  1376",
+      "name": "2010 Superb"
+    },
+    {
+      "brand": "53",
+      "id": "  2245",
+      "name": "206K"
+    },
+    {
+      "brand": "53",
+      "id": "  2246",
+      "name": "206K25"
+    },
+    {
+      "brand": "53",
+      "id": "  2247",
+      "name": "20U"
+    },
+    {
+      "brand": "53",
+      "id": "  2248",
+      "name": "20U13"
+    },
+    {
+      "brand": "53",
+      "id": "  2249",
+      "name": "20U33"
+    },
+    {
+      "brand": "53",
+      "id": "  2414",
+      "name": "221"
+    },
+    {
+      "brand": "53",
+      "id": "  2162",
+      "name": "2250"
+    },
+    {
+      "brand": "53",
+      "id": "  1377",
+      "name": "2250 Tradition"
+    },
+    {
+      "brand": "53",
+      "id": "  1378",
+      "name": "2259 Tradition"
+    },
+    {
+      "brand": "53",
+      "id": "  2163",
+      "name": "2263"
+    },
+    {
+      "brand": "53",
+      "id": "  1379",
+      "name": "2263 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  1380",
+      "name": "2273 Esteem II"
+    },
+    {
+      "brand": "53",
+      "id": "  1381",
+      "name": "2277 Tradition"
+    },
+    {
+      "brand": "53",
+      "id": "  1382",
+      "name": "2282 Tradition"
+    },
+    {
+      "brand": "53",
+      "id": "  2089",
+      "name": "237"
+    },
+    {
+      "brand": "53",
+      "id": "  2090",
+      "name": "239"
+    },
+    {
+      "brand": "53",
+      "id": "  2091",
+      "name": "247"
+    },
+    {
+      "brand": "53",
+      "id": "  2092",
+      "name": "251"
+    },
+    {
+      "brand": "53",
+      "id": "  1320",
+      "name": "2623"
+    },
+    {
+      "brand": "53",
+      "id": "  1321",
+      "name": "2638"
+    },
+    {
+      "brand": "53",
+      "id": "  2164",
+      "name": "2639"
+    },
+    {
+      "brand": "53",
+      "id": "  2165",
+      "name": "2662"
+    },
+    {
+      "brand": "53",
+      "id": "  1322",
+      "name": "2802"
+    },
+    {
+      "brand": "53",
+      "id": "  1323",
+      "name": "2808"
+    },
+    {
+      "brand": "53",
+      "id": "  1324",
+      "name": "2809"
+    },
+    {
+      "brand": "53",
+      "id": "  2093",
+      "name": "281"
+    },
+    {
+      "brand": "53",
+      "id": "  1325",
+      "name": "2810"
+    },
+    {
+      "brand": "53",
+      "id": "  1326",
+      "name": "2818"
+    },
+    {
+      "brand": "53",
+      "id": "  1327",
+      "name": "2852"
+    },
+    {
+      "brand": "53",
+      "id": "  1328",
+      "name": "2858"
+    },
+    {
+      "brand": "53",
+      "id": "  1329",
+      "name": "2859"
+    },
+    {
+      "brand": "53",
+      "id": "  1330",
+      "name": "2868"
+    },
+    {
+      "brand": "53",
+      "id": "  2094",
+      "name": "288"
+    },
+    {
+      "brand": "53",
+      "id": "  1331",
+      "name": "2902"
+    },
+    {
+      "brand": "53",
+      "id": "  2250",
+      "name": "290C"
+    },
+    {
+      "brand": "53",
+      "id": "  1332",
+      "name": "2932"
+    },
+    {
+      "brand": "53",
+      "id": "  1333",
+      "name": "2968"
+    },
+    {
+      "brand": "53",
+      "id": "  2363",
+      "name": "301"
+    },
+    {
+      "brand": "53",
+      "id": "  2251",
+      "name": "306K"
+    },
+    {
+      "brand": "53",
+      "id": "  2252",
+      "name": "306K25"
+    },
+    {
+      "brand": "53",
+      "id": "  2253",
+      "name": "306W"
+    },
+    {
+      "brand": "53",
+      "id": "  1383",
+      "name": "3116 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  2095",
+      "name": "319"
+    },
+    {
+      "brand": "53",
+      "id": "  2254",
+      "name": "319K"
+    },
+    {
+      "brand": "53",
+      "id": "  1384",
+      "name": "3210 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  1385",
+      "name": "3221 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  1386",
+      "name": "3223 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  1387",
+      "name": "3229 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  1388",
+      "name": "3232 Simple"
+    },
+    {
+      "brand": "53",
+      "id": "  2096",
+      "name": "327"
+    },
+    {
+      "brand": "53",
+      "id": "  2097",
+      "name": "328"
+    },
+    {
+      "brand": "53",
+      "id": "  2098",
+      "name": "329"
+    },
+    {
+      "brand": "53",
+      "id": "  2166",
+      "name": "3321"
+    },
+    {
+      "brand": "53",
+      "id": "  1389",
+      "name": "3321 Talent"
+    },
+    {
+      "brand": "53",
+      "id": "  1390",
+      "name": "3323 Talent"
+    },
+    {
+      "brand": "53",
+      "id": "  2255",
+      "name": "3323S"
+    },
+    {
+      "brand": "53",
+      "id": "  1391",
+      "name": "3323S Talent"
+    },
+    {
+      "brand": "53",
+      "id": "  1392",
+      "name": "369W"
+    },
+    {
+      "brand": "53",
+      "id": "  2167",
+      "name": "3709"
+    },
+    {
+      "brand": "53",
+      "id": "  2168",
+      "name": "3722"
+    },
+    {
+      "brand": "53",
+      "id": "  1334",
+      "name": "3810"
+    },
+    {
+      "brand": "53",
+      "id": "  1335",
+      "name": "3820"
+    },
+    {
+      "brand": "53",
+      "id": "  2169",
+      "name": "3825"
+    },
+    {
+      "brand": "53",
+      "id": "  2170",
+      "name": "3962"
+    },
+    {
+      "brand": "53",
+      "id": "  2099",
+      "name": "401"
+    },
+    {
+      "brand": "53",
+      "id": "  2256",
+      "name": "401A"
+    },
+    {
+      "brand": "53",
+      "id": "  2287",
+      "name": "401A Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  2100",
+      "name": "403"
+    },
+    {
+      "brand": "53",
+      "id": "  2101",
+      "name": "404"
+    },
+    {
+      "brand": "53",
+      "id": "  1393",
+      "name": "4060 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  2171",
+      "name": "4116"
+    },
+    {
+      "brand": "53",
+      "id": "  2102",
+      "name": "413"
+    },
+    {
+      "brand": "53",
+      "id": "  2286",
+      "name": "415 Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  2103",
+      "name": "416"
+    },
+    {
+      "brand": "53",
+      "id": "  2104",
+      "name": "418"
+    },
+    {
+      "brand": "53",
+      "id": "  2172",
+      "name": "4205"
+    },
+    {
+      "brand": "53",
+      "id": "  1394",
+      "name": "4205 Inspiration"
+    },
+    {
+      "brand": "53",
+      "id": "  2173",
+      "name": "4206"
+    },
+    {
+      "brand": "53",
+      "id": "  1395",
+      "name": "4206 Inspiration"
+    },
+    {
+      "brand": "53",
+      "id": "  2174",
+      "name": "4210"
+    },
+    {
+      "brand": "53",
+      "id": "  1396",
+      "name": "4210 Inspiration"
+    },
+    {
+      "brand": "53",
+      "id": "  2175",
+      "name": "4212"
+    },
+    {
+      "brand": "53",
+      "id": "  1397",
+      "name": "4212 Inspiration"
+    },
+    {
+      "brand": "53",
+      "id": "  2176",
+      "name": "4220"
+    },
+    {
+      "brand": "53",
+      "id": "  1398",
+      "name": "4220 Inspiration"
+    },
+    {
+      "brand": "53",
+      "id": "  2177",
+      "name": "4228"
+    },
+    {
+      "brand": "53",
+      "id": "  1399",
+      "name": "4228 Inspiration"
+    },
+    {
+      "brand": "53",
+      "id": "  1400",
+      "name": "4411 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1401",
+      "name": "4423 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1402",
+      "name": "4432 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1403",
+      "name": "4443 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1404",
+      "name": "4452 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1405",
+      "name": "44S Classic Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  2456",
+      "name": "4562"
+    },
+    {
+      "brand": "53",
+      "id": "  2373",
+      "name": "457 Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  2178",
+      "name": "4613"
+    },
+    {
+      "brand": "53",
+      "id": "  2179",
+      "name": "4617"
+    },
+    {
+      "brand": "53",
+      "id": "  2180",
+      "name": "4623"
+    },
+    {
+      "brand": "53",
+      "id": "  2105",
+      "name": "466"
+    },
+    {
+      "brand": "53",
+      "id": "  2106",
+      "name": "476"
+    },
+    {
+      "brand": "53",
+      "id": "  2107",
+      "name": "477"
+    },
+    {
+      "brand": "53",
+      "id": "  2108",
+      "name": "478"
+    },
+    {
+      "brand": "53",
+      "id": "  2257",
+      "name": "491D200"
+    },
+    {
+      "brand": "53",
+      "id": "  2258",
+      "name": "491D300"
+    },
+    {
+      "brand": "53",
+      "id": "  1406",
+      "name": "5 Futura Quintet"
+    },
+    {
+      "brand": "53",
+      "id": "  2259",
+      "name": "500A"
+    },
+    {
+      "brand": "53",
+      "id": "  2109",
+      "name": "503"
+    },
+    {
+      "brand": "53",
+      "id": "  1336",
+      "name": "5040"
+    },
+    {
+      "brand": "53",
+      "id": "  1337",
+      "name": "5050"
+    },
+    {
+      "brand": "53",
+      "id": "  2110",
+      "name": "513"
+    },
+    {
+      "brand": "53",
+      "id": "  2111",
+      "name": "514"
+    },
+    {
+      "brand": "53",
+      "id": "  2112",
+      "name": "518"
+    },
+    {
+      "brand": "53",
+      "id": "  2113",
+      "name": "522"
+    },
+    {
+      "brand": "53",
+      "id": "  2114",
+      "name": "527"
+    },
+    {
+      "brand": "53",
+      "id": "  1407",
+      "name": "531B"
+    },
+    {
+      "brand": "53",
+      "id": "  2115",
+      "name": "533"
+    },
+    {
+      "brand": "53",
+      "id": "  2116",
+      "name": "534"
+    },
+    {
+      "brand": "53",
+      "id": "  2117",
+      "name": "538"
+    },
+    {
+      "brand": "53",
+      "id": "  2326",
+      "name": "543"
+    },
+    {
+      "brand": "53",
+      "id": "  1408",
+      "name": "5500 Fashion Mate"
+    },
+    {
+      "brand": "53",
+      "id": "  1409",
+      "name": "5511 Scholastic"
+    },
+    {
+      "brand": "53",
+      "id": "  1410",
+      "name": "5523 Scholastic"
+    },
+    {
+      "brand": "53",
+      "id": "  1411",
+      "name": "5532 Heavy Duty Studio"
+    },
+    {
+      "brand": "53",
+      "id": "  2118",
+      "name": "560"
+    },
+    {
+      "brand": "53",
+      "id": "  1412",
+      "name": "5625 Stylist II"
+    },
+    {
+      "brand": "53",
+      "id": "  2260",
+      "name": "591D200A"
+    },
+    {
+      "brand": "53",
+      "id": "  2261",
+      "name": "591D300A"
+    },
+    {
+      "brand": "53",
+      "id": "  2119",
+      "name": "600"
+    },
+    {
+      "brand": "53",
+      "id": "  2120",
+      "name": "603"
+    },
+    {
+      "brand": "53",
+      "id": "  2121",
+      "name": "604"
+    },
+    {
+      "brand": "53",
+      "id": "  2181",
+      "name": "6100"
+    },
+    {
+      "brand": "53",
+      "id": "  2383",
+      "name": "6180"
+    },
+    {
+      "brand": "53",
+      "id": "  2122",
+      "name": "620"
+    },
+    {
+      "brand": "53",
+      "id": "  2182",
+      "name": "6212"
+    },
+    {
+      "brand": "53",
+      "id": "  2183",
+      "name": "6214"
+    },
+    {
+      "brand": "53",
+      "id": "  2184",
+      "name": "6215"
+    },
+    {
+      "brand": "53",
+      "id": "  2185",
+      "name": "6217"
+    },
+    {
+      "brand": "53",
+      "id": "  2186",
+      "name": "6230"
+    },
+    {
+      "brand": "53",
+      "id": "  2187",
+      "name": "6233"
+    },
+    {
+      "brand": "53",
+      "id": "  2188",
+      "name": "6234"
+    },
+    {
+      "brand": "53",
+      "id": "  2189",
+      "name": "6235"
+    },
+    {
+      "brand": "53",
+      "id": "  2123",
+      "name": "625"
+    },
+    {
+      "brand": "53",
+      "id": "  2262",
+      "name": "625 Touch and Sew"
+    },
+    {
+      "brand": "53",
+      "id": "  2124",
+      "name": "626"
+    },
+    {
+      "brand": "53",
+      "id": "  2190",
+      "name": "6268"
+    },
+    {
+      "brand": "53",
+      "id": "  2191",
+      "name": "6276"
+    },
+    {
+      "brand": "53",
+      "id": "  2125",
+      "name": "628"
+    },
+    {
+      "brand": "53",
+      "id": "  2126",
+      "name": "629"
+    },
+    {
+      "brand": "53",
+      "id": "  2192",
+      "name": "6305"
+    },
+    {
+      "brand": "53",
+      "id": "  2263",
+      "name": "630E"
+    },
+    {
+      "brand": "53",
+      "id": "  2193",
+      "name": "6310"
+    },
+    {
+      "brand": "53",
+      "id": "  2194",
+      "name": "6314"
+    },
+    {
+      "brand": "53",
+      "id": "  2195",
+      "name": "6318"
+    },
+    {
+      "brand": "53",
+      "id": "  2127",
+      "name": "635"
+    },
+    {
+      "brand": "53",
+      "id": "  2128",
+      "name": "636"
+    },
+    {
+      "brand": "53",
+      "id": "  2129",
+      "name": "638"
+    },
+    {
+      "brand": "53",
+      "id": "  2130",
+      "name": "639"
+    },
+    {
+      "brand": "53",
+      "id": "  2196",
+      "name": "6408"
+    },
+    {
+      "brand": "53",
+      "id": "  2264",
+      "name": "640E"
+    },
+    {
+      "brand": "53",
+      "id": "  2197",
+      "name": "6412"
+    },
+    {
+      "brand": "53",
+      "id": "  2198",
+      "name": "6416"
+    },
+    {
+      "brand": "53",
+      "id": "  2199",
+      "name": "6423"
+    },
+    {
+      "brand": "53",
+      "id": "  2131",
+      "name": "645"
+    },
+    {
+      "brand": "53",
+      "id": "  2132",
+      "name": "646"
+    },
+    {
+      "brand": "53",
+      "id": "  2133",
+      "name": "649"
+    },
+    {
+      "brand": "53",
+      "id": "  2200",
+      "name": "6510"
+    },
+    {
+      "brand": "53",
+      "id": "  2201",
+      "name": "6550"
+    },
+    {
+      "brand": "53",
+      "id": "  2082",
+      "name": "66"
+    },
+    {
+      "brand": "53",
+      "id": "  2202",
+      "name": "6700"
+    },
+    {
+      "brand": "53",
+      "id": "  1413",
+      "name": "70 Seventy"
+    },
+    {
+      "brand": "53",
+      "id": "  2203",
+      "name": "7005"
+    },
+    {
+      "brand": "53",
+      "id": "  1338",
+      "name": "7020"
+    },
+    {
+      "brand": "53",
+      "id": "  2204",
+      "name": "7043"
+    },
+    {
+      "brand": "53",
+      "id": "  2205",
+      "name": "7100"
+    },
+    {
+      "brand": "53",
+      "id": "  2134",
+      "name": "714"
+    },
+    {
+      "brand": "53",
+      "id": "  1414",
+      "name": "7140 Fashion Mate"
+    },
+    {
+      "brand": "53",
+      "id": "  1415",
+      "name": "7140 Symphonie VI"
+    },
+    {
+      "brand": "53",
+      "id": "  2135",
+      "name": "717"
+    },
+    {
+      "brand": "53",
+      "id": "  2136",
+      "name": "719"
+    },
+    {
+      "brand": "53",
+      "id": "  1416",
+      "name": "7256 Fashion Mate"
+    },
+    {
+      "brand": "53",
+      "id": "  1417",
+      "name": "7256CH"
+    },
+    {
+      "brand": "53",
+      "id": "  1418",
+      "name": "7258 Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  2459",
+      "name": "7285Q"
+    },
+    {
+      "brand": "53",
+      "id": "  1419",
+      "name": "7285Q Patchwork"
+    },
+    {
+      "brand": "53",
+      "id": "  2206",
+      "name": "7312"
+    },
+    {
+      "brand": "53",
+      "id": "  2207",
+      "name": "7322"
+    },
+    {
+      "brand": "53",
+      "id": "  2137",
+      "name": "734"
+    },
+    {
+      "brand": "53",
+      "id": "  2208",
+      "name": "7350"
+    },
+    {
+      "brand": "53",
+      "id": "  2138",
+      "name": "737"
+    },
+    {
+      "brand": "53",
+      "id": "  2209",
+      "name": "7380"
+    },
+    {
+      "brand": "53",
+      "id": "  1339",
+      "name": "7410"
+    },
+    {
+      "brand": "53",
+      "id": "  1340",
+      "name": "7412"
+    },
+    {
+      "brand": "53",
+      "id": "  2210",
+      "name": "7422"
+    },
+    {
+      "brand": "53",
+      "id": "  1420",
+      "name": "7422 Advance"
+    },
+    {
+      "brand": "53",
+      "id": "  1341",
+      "name": "7424"
+    },
+    {
+      "brand": "53",
+      "id": "  1342",
+      "name": "7426"
+    },
+    {
+      "brand": "53",
+      "id": "  1343",
+      "name": "7430"
+    },
+    {
+      "brand": "53",
+      "id": "  2211",
+      "name": "7436"
+    },
+    {
+      "brand": "53",
+      "id": "  1421",
+      "name": "7436 Ingenuity"
+    },
+    {
+      "brand": "53",
+      "id": "  1344",
+      "name": "7442"
+    },
+    {
+      "brand": "53",
+      "id": "  2212",
+      "name": "7444"
+    },
+    {
+      "brand": "53",
+      "id": "  1422",
+      "name": "7444 Precision"
+    },
+    {
+      "brand": "53",
+      "id": "  1345",
+      "name": "7446"
+    },
+    {
+      "brand": "53",
+      "id": "  1346",
+      "name": "7448"
+    },
+    {
+      "brand": "53",
+      "id": "  2213",
+      "name": "7462"
+    },
+    {
+      "brand": "53",
+      "id": "  1423",
+      "name": "7462 Touch \u0026 Sew"
+    },
+    {
+      "brand": "53",
+      "id": "  2214",
+      "name": "7463"
+    },
+    {
+      "brand": "53",
+      "id": "  1424",
+      "name": "7463 Confidence"
+    },
+    {
+      "brand": "53",
+      "id": "  1347",
+      "name": "7464"
+    },
+    {
+      "brand": "53",
+      "id": "  1425",
+      "name": "7465 Confidence"
+    },
+    {
+      "brand": "53",
+      "id": "  2215",
+      "name": "7466"
+    },
+    {
+      "brand": "53",
+      "id": "  1426",
+      "name": "7466 Touch \u0026 Sew"
+    },
+    {
+      "brand": "53",
+      "id": "  2216",
+      "name": "7467"
+    },
+    {
+      "brand": "53",
+      "id": "  1427",
+      "name": "7467 Confidence"
+    },
+    {
+      "brand": "53",
+      "id": "  1428",
+      "name": "7467S Confidence Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  1348",
+      "name": "7468"
+    },
+    {
+      "brand": "53",
+      "id": "  2217",
+      "name": "7469"
+    },
+    {
+      "brand": "53",
+      "id": "  1429",
+      "name": "7469 Confidence"
+    },
+    {
+      "brand": "53",
+      "id": "  1430",
+      "name": "7469Q Confidence Quilter"
+    },
+    {
+      "brand": "53",
+      "id": "  2218",
+      "name": "7470"
+    },
+    {
+      "brand": "53",
+      "id": "  1431",
+      "name": "7470 Confidence"
+    },
+    {
+      "brand": "53",
+      "id": "  2139",
+      "name": "750"
+    },
+    {
+      "brand": "53",
+      "id": "  2140",
+      "name": "755"
+    },
+    {
+      "brand": "53",
+      "id": "  2141",
+      "name": "756"
+    },
+    {
+      "brand": "53",
+      "id": "  1349",
+      "name": "7563"
+    },
+    {
+      "brand": "53",
+      "id": "  2142",
+      "name": "758"
+    },
+    {
+      "brand": "53",
+      "id": "  2143",
+      "name": "770"
+    },
+    {
+      "brand": "53",
+      "id": "  2144",
+      "name": "774"
+    },
+    {
+      "brand": "53",
+      "id": "  2145",
+      "name": "775"
+    },
+    {
+      "brand": "53",
+      "id": "  2146",
+      "name": "776"
+    },
+    {
+      "brand": "53",
+      "id": "  2147",
+      "name": "778"
+    },
+    {
+      "brand": "53",
+      "id": "  2219",
+      "name": "8100"
+    },
+    {
+      "brand": "53",
+      "id": "  2148",
+      "name": "814"
+    },
+    {
+      "brand": "53",
+      "id": "  1350",
+      "name": "8280"
+    },
+    {
+      "brand": "53",
+      "id": "  1432",
+      "name": "8280L"
+    },
+    {
+      "brand": "53",
+      "id": "  2149",
+      "name": "834"
+    },
+    {
+      "brand": "53",
+      "id": "  1433",
+      "name": "8500Q Modern Quilter"
+    },
+    {
+      "brand": "53",
+      "id": "  2220",
+      "name": "8763"
+    },
+    {
+      "brand": "53",
+      "id": "  1434",
+      "name": "8763 Curvy"
+    },
+    {
+      "brand": "53",
+      "id": "  1351",
+      "name": "8767"
+    },
+    {
+      "brand": "53",
+      "id": "  1435",
+      "name": "8768 Heritage"
+    },
+    {
+      "brand": "53",
+      "id": "  2221",
+      "name": "8770"
+    },
+    {
+      "brand": "53",
+      "id": "  1436",
+      "name": "8770 Curvy"
+    },
+    {
+      "brand": "53",
+      "id": "  2222",
+      "name": "8780"
+    },
+    {
+      "brand": "53",
+      "id": "  1437",
+      "name": "8780 Curvy"
+    },
+    {
+      "brand": "53",
+      "id": "  1352",
+      "name": "8976"
+    },
+    {
+      "brand": "53",
+      "id": "  2150",
+      "name": "900"
+    },
+    {
+      "brand": "53",
+      "id": "  1438",
+      "name": "900 Futura Atheana"
+    },
+    {
+      "brand": "53",
+      "id": "  1439",
+      "name": "900 Touch-Tronic"
+    },
+    {
+      "brand": "53",
+      "id": "  1440",
+      "name": "90S Special Edition"
+    },
+    {
+      "brand": "53",
+      "id": "  1441",
+      "name": "9100 Professional"
+    },
+    {
+      "brand": "53",
+      "id": "  1442",
+      "name": "9100 Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  2223",
+      "name": "9113"
+    },
+    {
+      "brand": "53",
+      "id": "  2224",
+      "name": "9117"
+    },
+    {
+      "brand": "53",
+      "id": "  2225",
+      "name": "9124"
+    },
+    {
+      "brand": "53",
+      "id": "  2226",
+      "name": "9133"
+    },
+    {
+      "brand": "53",
+      "id": "  2227",
+      "name": "9137"
+    },
+    {
+      "brand": "53",
+      "id": "  2228",
+      "name": "9143"
+    },
+    {
+      "brand": "53",
+      "id": "  2151",
+      "name": "920"
+    },
+    {
+      "brand": "53",
+      "id": "  1443",
+      "name": "920 Futura Atheana"
+    },
+    {
+      "brand": "53",
+      "id": "  1444",
+      "name": "920 Touch-Tronic"
+    },
+    {
+      "brand": "53",
+      "id": "  2229",
+      "name": "9217"
+    },
+    {
+      "brand": "53",
+      "id": "  2230",
+      "name": "9224"
+    },
+    {
+      "brand": "53",
+      "id": "  2231",
+      "name": "9240"
+    },
+    {
+      "brand": "53",
+      "id": "  2152",
+      "name": "925"
+    },
+    {
+      "brand": "53",
+      "id": "  1445",
+      "name": "925 Futura Atheana"
+    },
+    {
+      "brand": "53",
+      "id": "  1446",
+      "name": "925 Touch-Tronic"
+    },
+    {
+      "brand": "53",
+      "id": "  1447",
+      "name": "9340 Signature"
+    },
+    {
+      "brand": "53",
+      "id": "  2232",
+      "name": "9430"
+    },
+    {
+      "brand": "53",
+      "id": "  2460",
+      "name": "9444"
+    },
+    {
+      "brand": "53",
+      "id": "  1353",
+      "name": "9850"
+    },
+    {
+      "brand": "53",
+      "id": "  1354",
+      "name": "9852"
+    },
+    {
+      "brand": "53",
+      "id": "  1355",
+      "name": "9855"
+    },
+    {
+      "brand": "53",
+      "id": "  1448",
+      "name": "9855-1"
+    },
+    {
+      "brand": "53",
+      "id": "  1449",
+      "name": "9858 Facilita"
+    },
+    {
+      "brand": "53",
+      "id": "  1356",
+      "name": "9860"
+    },
+    {
+      "brand": "53",
+      "id": "  1357",
+      "name": "9868"
+    },
+    {
+      "brand": "53",
+      "id": "  2083",
+      "name": "99"
+    },
+    {
+      "brand": "53",
+      "id": "  2233",
+      "name": "9900"
+    },
+    {
+      "brand": "53",
+      "id": "  2234",
+      "name": "9910"
+    },
+    {
+      "brand": "53",
+      "id": "  2235",
+      "name": "9960"
+    },
+    {
+      "brand": "53",
+      "id": "  1450",
+      "name": "9960 Quantum Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  1358",
+      "name": "9970"
+    },
+    {
+      "brand": "53",
+      "id": "  1451",
+      "name": "9980 Quantum Stylist"
+    },
+    {
+      "brand": "53",
+      "id": "  1452",
+      "name": "9985 Quantum Stylist Touch"
+    },
+    {
+      "brand": "53",
+      "id": "  2265",
+      "name": "CE-100"
+    },
+    {
+      "brand": "53",
+      "id": "  1453",
+      "name": "CE-100 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1454",
+      "name": "CE-150 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1455",
+      "name": "CE-180 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  2266",
+      "name": "CE-200"
+    },
+    {
+      "brand": "53",
+      "id": "  1456",
+      "name": "CE-200 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1457",
+      "name": "CE-250 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1458",
+      "name": "CE-350 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  2267",
+      "name": "CE150"
+    },
+    {
+      "brand": "53",
+      "id": "  2268",
+      "name": "CE250"
+    },
+    {
+      "brand": "53",
+      "id": "  2269",
+      "name": "CE350"
+    },
+    {
+      "brand": "53",
+      "id": "  1459",
+      "name": "CG-500 Commercial Grade"
+    },
+    {
+      "brand": "53",
+      "id": "  1460",
+      "name": "CG-550 Commercial Grade"
+    },
+    {
+      "brand": "53",
+      "id": "  1461",
+      "name": "CG-590 Commercial Grade"
+    },
+    {
+      "brand": "53",
+      "id": "  2270",
+      "name": "DSX"
+    },
+    {
+      "brand": "53",
+      "id": "  2271",
+      "name": "DSX II"
+    },
+    {
+      "brand": "53",
+      "id": "  2458",
+      "name": "EM 200"
+    },
+    {
+      "brand": "53",
+      "id": "  1462",
+      "name": "ET-1"
+    },
+    {
+      "brand": "53",
+      "id": "  1634",
+      "name": "Featherweight 221"
+    },
+    {
+      "brand": "53",
+      "id": "  1635",
+      "name": "Featherweight 221J"
+    },
+    {
+      "brand": "53",
+      "id": "  1636",
+      "name": "Featherweight 221K"
+    },
+    {
+      "brand": "53",
+      "id": "  1637",
+      "name": "Featherweight 222"
+    },
+    {
+      "brand": "53",
+      "id": "  1638",
+      "name": "Featherweight 222K"
+    },
+    {
+      "brand": "53",
+      "id": "  1463",
+      "name": "FQ-4 Futura Quartet"
+    },
+    {
+      "brand": "53",
+      "id": "  1464",
+      "name": "H74"
+    },
+    {
+      "brand": "53",
+      "id": "  1465",
+      "name": "HD-102 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1466",
+      "name": "HD-105 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1467",
+      "name": "HD-110 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1468",
+      "name": "HD-118 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1469",
+      "name": "HD-205 Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  1470",
+      "name": "HD-205C Heavy Duty"
+    },
+    {
+      "brand": "53",
+      "id": "  2457",
+      "name": "Imperial 7000"
+    },
+    {
+      "brand": "53",
+      "id": "  2394",
+      "name": "Quantum 9940"
+    },
+    {
+      "brand": "53",
+      "id": "  2275",
+      "name": "Quantum 9960"
+    },
+    {
+      "brand": "53",
+      "id": "  1643",
+      "name": "Quantum L-500"
+    },
+    {
+      "brand": "53",
+      "id": "  2276",
+      "name": "Quantum LE"
+    },
+    {
+      "brand": "53",
+      "id": "  2277",
+      "name": "Quantum XL100"
+    },
+    {
+      "brand": "53",
+      "id": "  2278",
+      "name": "Quantum XL1000"
+    },
+    {
+      "brand": "53",
+      "id": "  2279",
+      "name": "Quantum XL150"
+    },
+    {
+      "brand": "53",
+      "id": "  2280",
+      "name": "Quantum XL3400"
+    },
+    {
+      "brand": "53",
+      "id": "  2281",
+      "name": "Quantum XL5000"
+    },
+    {
+      "brand": "53",
+      "id": "  2282",
+      "name": "Quantum XL6000"
+    },
+    {
+      "brand": "53",
+      "id": "  1471",
+      "name": "S18 Studio"
+    },
+    {
+      "brand": "53",
+      "id": "  1472",
+      "name": "S800 Fashionista"
+    },
+    {
+      "brand": "53",
+      "id": "  2410",
+      "name": "SE 340"
+    },
+    {
+      "brand": "53",
+      "id": "  1473",
+      "name": "SEQS-6000 Futura Quartet"
+    },
+    {
+      "brand": "53",
+      "id": "  1474",
+      "name": "SEQS-6700 Futura Quartet"
+    },
+    {
+      "brand": "53",
+      "id": "  1475",
+      "name": "SES1000 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1476",
+      "name": "SES2000 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  2283",
+      "name": "Stylist 774"
+    },
+    {
+      "brand": "53",
+      "id": "  2401",
+      "name": "Touch Tronic 2010"
+    },
+    {
+      "brand": "53",
+      "id": "  1479",
+      "name": "XL-400 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1480",
+      "name": "XL-420 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1481",
+      "name": "XL-550 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1482",
+      "name": "XL-580 Futura"
+    },
+    {
+      "brand": "53",
+      "id": "  1477",
+      "name": "XL150 Quantum"
+    },
+    {
+      "brand": "53",
+      "id": "  1478",
+      "name": "XL3400"
+    },
+    {
+      "brand": "53",
+      "id": "  2285",
+      "name": "XL400"
+    },
+     {
+      "brand": "60",
+      "id": "  1627",
+      "name": "16"
+    },
+    {
+      "brand": "60",
+      "id": "  1628",
+      "name": "24"
+    },
+    {
+      "brand": "54",
+      "id": "  1483",
+      "name": "18 ESP"
+    },
+    {
+      "brand": "54",
+      "id": "  1484",
+      "name": "18 ESP Limited"
+    },
+    {
+      "brand": "54",
+      "id": "  1485",
+      "name": "Ansley 26 ESP Limited"
+    },
+    {
+      "brand": "54",
+      "id": "  1619",
+      "name": "RAM"
+    },
+    {
+      "brand": "54",
+      "id": "  1486",
+      "name": "Sitdown"
+    },
+    {
+      "brand": "55",
+      "id": "  2236",
+      "name": "#1"
+    },
+    {
+      "brand": "55",
+      "id": "  2237",
+      "name": "#1+"
+    },
+    {
+      "brand": "55",
+      "id": "  2034",
+      "name": "100"
+    },
+    {
+      "brand": "55",
+      "id": "  2411",
+      "name": "100Q"
+    },
+    {
+      "brand": "55",
+      "id": "  2310",
+      "name": "1100"
+    },
+    {
+      "brand": "55",
+      "id": "  2416",
+      "name": "1200"
+    },
+    {
+      "brand": "55",
+      "id": "  2324",
+      "name": "185 optima"
+    },
+    {
+      "brand": "55",
+      "id": "  2035",
+      "name": "200"
+    },
+    {
+      "brand": "55",
+      "id": "  2405",
+      "name": "2000"
+    },
+    {
+      "brand": "55",
+      "id": "  2078",
+      "name": "205"
+    },
+    {
+      "brand": "55",
+      "id": "  2077",
+      "name": "210"
+    },
+    {
+      "brand": "55",
+      "id": "  2076",
+      "name": "215"
+    },
+    {
+      "brand": "55",
+      "id": "  2075",
+      "name": "225"
+    },
+    {
+      "brand": "55",
+      "id": "  2074",
+      "name": "230"
+    },
+    {
+      "brand": "55",
+      "id": "  2073",
+      "name": "250"
+    },
+    {
+      "brand": "55",
+      "id": "  2036",
+      "name": "300"
+    },
+    {
+      "brand": "55",
+      "id": "  2013",
+      "name": "3000"
+    },
+    {
+      "brand": "55",
+      "id": "  2057",
+      "name": "310"
+    },
+    {
+      "brand": "55",
+      "id": "  2056",
+      "name": "315"
+    },
+    {
+      "brand": "55",
+      "id": "  2058",
+      "name": "320"
+    },
+    {
+      "brand": "55",
+      "id": "  2055",
+      "name": "325"
+    },
+    {
+      "brand": "55",
+      "id": "  2054",
+      "name": "330"
+    },
+    {
+      "brand": "55",
+      "id": "  2053",
+      "name": "335"
+    },
+    {
+      "brand": "55",
+      "id": "  2043",
+      "name": "340"
+    },
+    {
+      "brand": "55",
+      "id": "  1984",
+      "name": "350"
+    },
+    {
+      "brand": "55",
+      "id": "  2044",
+      "name": "360"
+    },
+    {
+      "brand": "55",
+      "id": "  2045",
+      "name": "370"
+    },
+    {
+      "brand": "55",
+      "id": "  1985",
+      "name": "400"
+    },
+    {
+      "brand": "55",
+      "id": "  1986",
+      "name": "415"
+    },
+    {
+      "brand": "55",
+      "id": "  1987",
+      "name": "425"
+    },
+    {
+      "brand": "55",
+      "id": "  1988",
+      "name": "435"
+    },
+    {
+      "brand": "55",
+      "id": "  1989",
+      "name": "445"
+    },
+    {
+      "brand": "55",
+      "id": "  1990",
+      "name": "500"
+    },
+    {
+      "brand": "55",
+      "id": "  1998",
+      "name": "530"
+    },
+    {
+      "brand": "55",
+      "id": "  1999",
+      "name": "535"
+    },
+    {
+      "brand": "55",
+      "id": "  2000",
+      "name": "540"
+    },
+    {
+      "brand": "55",
+      "id": "  2001",
+      "name": "545"
+    },
+    {
+      "brand": "55",
+      "id": "  2002",
+      "name": "550"
+    },
+    {
+      "brand": "55",
+      "id": "  2003",
+      "name": "555"
+    },
+    {
+      "brand": "55",
+      "id": "  2028",
+      "name": "600"
+    },
+    {
+      "brand": "55",
+      "id": "  1965",
+      "name": "6019QC"
+    },
+    {
+      "brand": "55",
+      "id": "  2029",
+      "name": "605"
+    },
+    {
+      "brand": "55",
+      "id": "  2319",
+      "name": "6430"
+    },
+    {
+      "brand": "55",
+      "id": "  2014",
+      "name": "715"
+    },
+    {
+      "brand": "55",
+      "id": "  2015",
+      "name": "730"
+    },
+    {
+      "brand": "55",
+      "id": "  2016",
+      "name": "735"
+    },
+    {
+      "brand": "55",
+      "id": "  2017",
+      "name": "750"
+    },
+    {
+      "brand": "55",
+      "id": "  2018",
+      "name": "750 Quilt"
+    },
+    {
+      "brand": "55",
+      "id": "  2019",
+      "name": "755"
+    },
+    {
+      "brand": "55",
+      "id": "  1966",
+      "name": "755 Quilt"
+    },
+    {
+      "brand": "55",
+      "id": "  2020",
+      "name": "770"
+    },
+    {
+      "brand": "55",
+      "id": "  2021",
+      "name": "775"
+    },
+    {
+      "brand": "55",
+      "id": "  1960",
+      "name": "830"
+    },
+    {
+      "brand": "55",
+      "id": "  1961",
+      "name": "835"
+    },
+    {
+      "brand": "55",
+      "id": "  1962",
+      "name": "850"
+    },
+    {
+      "brand": "55",
+      "id": "  1963",
+      "name": "855"
+    },
+    {
+      "brand": "55",
+      "id": "  1964",
+      "name": "870"
+    },
+    {
+      "brand": "55",
+      "id": "  2022",
+      "name": "950 E"
+    },
+    {
+      "brand": "55",
+      "id": "  2023",
+      "name": "955 E"
+    },
+    {
+      "brand": "55",
+      "id": "  1967",
+      "name": "Angelica"
+    },
+    {
+      "brand": "55",
+      "id": "  2065",
+      "name": "Anna"
+    },
+    {
+      "brand": "55",
+      "id": "  2051",
+      "name": "Daisy 310"
+    },
+    {
+      "brand": "55",
+      "id": "  2050",
+      "name": "Daisy 315"
+    },
+    {
+      "brand": "55",
+      "id": "  2052",
+      "name": "Daisy 320"
+    },
+    {
+      "brand": "55",
+      "id": "  2049",
+      "name": "Daisy 325"
+    },
+    {
+      "brand": "55",
+      "id": "  2048",
+      "name": "Daisy 330"
+    },
+    {
+      "brand": "55",
+      "id": "  2047",
+      "name": "Daisy 335"
+    },
+    {
+      "brand": "55",
+      "id": "  1968",
+      "name": "Designer Diamond"
+    },
+    {
+      "brand": "55",
+      "id": "  1969",
+      "name": "Designer Diamond Royale"
+    },
+    {
+      "brand": "55",
+      "id": "  2426",
+      "name": "Designer Epic"
+    },
+    {
+      "brand": "55",
+      "id": "  1487",
+      "name": "Designer I"
+    },
+    {
+      "brand": "55",
+      "id": "  1488",
+      "name": "Designer II"
+    },
+    {
+      "brand": "55",
+      "id": "  1705",
+      "name": "Designer l USB"
+    },
+    {
+      "brand": "55",
+      "id": "  1489",
+      "name": "Designer Royale"
+    },
+    {
+      "brand": "55",
+      "id": "  1970",
+      "name": "Designer Ruby"
+    },
+    {
+      "brand": "55",
+      "id": "  1490",
+      "name": "Designer SE"
+    },
+    {
+      "brand": "55",
+      "id": "  1971",
+      "name": "Designer Topaz 20"
+    },
+    {
+      "brand": "55",
+      "id": "  1972",
+      "name": "Designer Topaz 30"
+    },
+    {
+      "brand": "55",
+      "id": "  1973",
+      "name": "Designer Topaz 40"
+    },
+    {
+      "brand": "55",
+      "id": "  1491",
+      "name": "Diamond"
+    },
+    {
+      "brand": "55",
+      "id": "  1492",
+      "name": "Emerald"
+    },
+    {
+      "brand": "55",
+      "id": "  2359",
+      "name": "Emerald 183"
+    },
+    {
+      "brand": "55",
+      "id": "  2061",
+      "name": "Emma"
+    },
+    {
+      "brand": "55",
+      "id": "  2272",
+      "name": "Epic"
+    },
+    {
+      "brand": "55",
+      "id": "  1974",
+      "name": "Facette 500/400"
+    },
+    {
+      "brand": "55",
+      "id": "  1975",
+      "name": "Freesia 350"
+    },
+    {
+      "brand": "55",
+      "id": "  1976",
+      "name": "Freesia 400"
+    },
+    {
+      "brand": "55",
+      "id": "  1977",
+      "name": "Freesia 415"
+    },
+    {
+      "brand": "55",
+      "id": "  1978",
+      "name": "Freesia 425"
+    },
+    {
+      "brand": "55",
+      "id": "  1979",
+      "name": "Freesia 435"
+    },
+    {
+      "brand": "55",
+      "id": "  1980",
+      "name": "Freesia 445"
+    },
+    {
+      "brand": "55",
+      "id": "  1981",
+      "name": "Freesia 500"
+    },
+    {
+      "brand": "55",
+      "id": "  2079",
+      "name": "Hugin"
+    },
+    {
+      "brand": "55",
+      "id": "  1982",
+      "name": "Interlude 435"
+    },
+    {
+      "brand": "55",
+      "id": "  1983",
+      "name": "Interlude 445"
+    },
+    {
+      "brand": "55",
+      "id": "  1991",
+      "name": "Iris"
+    },
+    {
+      "brand": "55",
+      "id": "  2072",
+      "name": "Jeans"
+    },
+    {
+      "brand": "55",
+      "id": "  2064",
+      "name": "Juliet"
+    },
+    {
+      "brand": "55",
+      "id": "  2062",
+      "name": "Lena"
+    },
+    {
+      "brand": "55",
+      "id": "  1992",
+      "name": "Lily 530"
+    },
+    {
+      "brand": "55",
+      "id": "  1993",
+      "name": "Lily 535"
+    },
+    {
+      "brand": "55",
+      "id": "  1994",
+      "name": "Lily 540"
+    },
+    {
+      "brand": "55",
+      "id": "  1995",
+      "name": "Lily 545"
+    },
+    {
+      "brand": "55",
+      "id": "  1996",
+      "name": "Lily 550"
+    },
+    {
+      "brand": "55",
+      "id": "  1997",
+      "name": "Lily 555"
+    },
+    {
+      "brand": "55",
+      "id": "  2004",
+      "name": "Lisa"
+    },
+    {
+      "brand": "55",
+      "id": "  1529",
+      "name": "Mega Quilter"
+    },
+    {
+      "brand": "55",
+      "id": "  1493",
+      "name": "Mega Quilter 18"
+    },
+    {
+      "brand": "55",
+      "id": "  2451",
+      "name": "Mega Quilter 18x8"
+    },
+    {
+      "brand": "55",
+      "id": "  2273",
+      "name": "Opal"
+    },
+    {
+      "brand": "55",
+      "id": "  2274",
+      "name": "Opal 670"
+    },
+    {
+      "brand": "55",
+      "id": "  2427",
+      "name": "Opal 690"
+    },
+    {
+      "brand": "55",
+      "id": "  2059",
+      "name": "Oscar"
+    },
+    {
+      "brand": "55",
+      "id": "  1494",
+      "name": "Platinum 16"
+    },
+    {
+      "brand": "55",
+      "id": "  1495",
+      "name": "Platinum 3000"
+    },
+    {
+      "brand": "55",
+      "id": "  2005",
+      "name": "Platinum 715"
+    },
+    {
+      "brand": "55",
+      "id": "  2006",
+      "name": "Platinum 730"
+    },
+    {
+      "brand": "55",
+      "id": "  2007",
+      "name": "Platinum 735"
+    },
+    {
+      "brand": "55",
+      "id": "  1496",
+      "name": "Platinum 750"
+    },
+    {
+      "brand": "55",
+      "id": "  2008",
+      "name": "Platinum 755 Quilt"
+    },
+    {
+      "brand": "55",
+      "id": "  2009",
+      "name": "Platinum 770"
+    },
+    {
+      "brand": "55",
+      "id": "  2010",
+      "name": "Platinum 775"
+    },
+    {
+      "brand": "55",
+      "id": "  1497",
+      "name": "Platinum 950E"
+    },
+    {
+      "brand": "55",
+      "id": "  2011",
+      "name": "Platinum 955 E"
+    },
+    {
+      "brand": "55",
+      "id": "  2012",
+      "name": "Platinum Plus"
+    },
+    {
+      "brand": "55",
+      "id": "  2039",
+      "name": "Prelude 340"
+    },
+    {
+      "brand": "55",
+      "id": "  2041",
+      "name": "Prelude 350"
+    },
+    {
+      "brand": "55",
+      "id": "  2040",
+      "name": "Prelude 360"
+    },
+    {
+      "brand": "55",
+      "id": "  2042",
+      "name": "Prelude 370"
+    },
+    {
+      "brand": "55",
+      "id": "  2317",
+      "name": "Prisma 990"
+    },
+    {
+      "brand": "55",
+      "id": "  2328",
+      "name": "Prisma 990 S"
+    },
+    {
+      "brand": "55",
+      "id": "  2024",
+      "name": "Quilt Designer"
+    },
+    {
+      "brand": "55",
+      "id": "  2025",
+      "name": "Quilt Designer II"
+    },
+    {
+      "brand": "55",
+      "id": "  2063",
+      "name": "Romeo"
+    },
+    {
+      "brand": "55",
+      "id": "  1498",
+      "name": "Rose"
+    },
+    {
+      "brand": "55",
+      "id": "  2026",
+      "name": "Rose 600"
+    },
+    {
+      "brand": "55",
+      "id": "  2027",
+      "name": "Rose 605"
+    },
+    {
+      "brand": "55",
+      "id": "  1499",
+      "name": "Ruby"
+    },
+    {
+      "brand": "55",
+      "id": "  2030",
+      "name": "Ruby Deluxe"
+    },
+    {
+      "brand": "55",
+      "id": "  1500",
+      "name": "Sapphire"
+    },
+    {
+      "brand": "55",
+      "id": "  2396",
+      "name": "Sapphire 835"
+    },
+    {
+      "brand": "55",
+      "id": "  2031",
+      "name": "Sapphire 875Q"
+    },
+    {
+      "brand": "55",
+      "id": "  2428",
+      "name": "Sapphire 930"
+    },
+    {
+      "brand": "55",
+      "id": "  2071",
+      "name": "Sarah 205"
+    },
+    {
+      "brand": "55",
+      "id": "  2070",
+      "name": "Sarah 210"
+    },
+    {
+      "brand": "55",
+      "id": "  2069",
+      "name": "Sarah 215"
+    },
+    {
+      "brand": "55",
+      "id": "  2068",
+      "name": "Sarah 225"
+    },
+    {
+      "brand": "55",
+      "id": "  2067",
+      "name": "Sarah 230"
+    },
+    {
+      "brand": "55",
+      "id": "  2066",
+      "name": "Sarah 250"
+    },
+    {
+      "brand": "55",
+      "id": "  2046",
+      "name": "Scandinavia 100"
+    },
+    {
+      "brand": "55",
+      "id": "  2032",
+      "name": "Scandinavia 200"
+    },
+    {
+      "brand": "55",
+      "id": "  2033",
+      "name": "Scandinavia 300"
+    },
+    {
+      "brand": "55",
+      "id": "  1501",
+      "name": "Scandinavia 400"
+    },
+    {
+      "brand": "55",
+      "id": "  2313",
+      "name": "SLE 6570"
+    },
+    {
+      "brand": "55",
+      "id": "  2060",
+      "name": "Sophia"
+    },
+    {
+      "brand": "55",
+      "id": "  2284",
+      "name": "Topaz"
+    },
+    {
+      "brand": "55",
+      "id": "  2400",
+      "name": "Topaz 25"
+    },
+    {
+      "brand": "55",
+      "id": "  2037",
+      "name": "Victoria"
+    },
+    {
+      "brand": "55",
+      "id": "  2038",
+      "name": "Viva"
+    },
+    {
+      "brand": "56",
+      "id": "  1506",
+      "name": "1066"
+    },
+    {
+      "brand": "56",
+      "id": "  1507",
+      "name": "1405"
+    },
+    {
+      "brand": "56",
+      "id": "  1508",
+      "name": "1466"
+    },
+    {
+      "brand": "56",
+      "id": "  1509",
+      "name": "1505"
+    },
+    {
+      "brand": "56",
+      "id": "  1510",
+      "name": "1563"
+    },
+    {
+      "brand": "56",
+      "id": "  1511",
+      "name": "1620"
+    },
+    {
+      "brand": "56",
+      "id": "  1512",
+      "name": "1717"
+    },
+    {
+      "brand": "56",
+      "id": "  1513",
+      "name": "1866"
+    },
+    {
+      "brand": "56",
+      "id": "  1514",
+      "name": "1955"
+    },
+    {
+      "brand": "56",
+      "id": "  1515",
+      "name": "2221"
+    },
+    {
+      "brand": "56",
+      "id": "  1516",
+      "name": "2360"
+    },
+    {
+      "brand": "56",
+      "id": "  1517",
+      "name": "4042"
+    },
+    {
+      "brand": "56",
+      "id": "  1502",
+      "name": "568"
+    },
+    {
+      "brand": "56",
+      "id": "  1503",
+      "name": "656"
+    },
+    {
+      "brand": "56",
+      "id": "  1504",
+      "name": "710"
+    },
+    {
+      "brand": "56",
+      "id": "  1505",
+      "name": "769"
+    },
+    {
+      "brand": "56",
+      "id": "  1704",
+      "name": "7700"
+    },
+    {
+      "brand": "56",
+      "id": "  1518",
+      "name": "9800"
+    },
+    {
+      "brand": "56",
+      "id": "  1519",
+      "name": "Stylemaker"
+    },
+    {
+      "brand": "56",
+      "id": "  1520",
+      "name": "W3300"
+    },
+    {
+      "brand": "56",
+      "id": "  1521",
+      "name": "W4400"
+    }
+
+
+
+    ]
+}

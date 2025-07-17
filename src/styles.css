@@ -158,3 +158,24 @@ header h1 span {
 .brandlist li:hover {
   background-color: #3b59cf;
 }
+
+  .prewounds {
+    display: flex;
+    gap: 2rem; 
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin: 2rem 0;
+  }
+
+  .prewound {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 150px;
+    text-align: center;
+  }
+
+  .prewound-item img {
+    width: 100px;
+    height: auto;
+  }

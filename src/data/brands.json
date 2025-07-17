@@ -1,0 +1,140 @@
+{
+    "brands": [
+        {
+            "id": "32",
+            "name": "A1"
+        },
+        {
+            "id": "33",
+            "name": "APQS"
+        },
+        {
+            "id": "34",
+            "name": "Baby Lock"
+        },
+        {
+            "id": "64",
+            "name": "Bailey Home Quilter"
+        },
+        {
+            "id": "61",
+            "name": "Bernette"
+        },
+        {
+            "id": "35",
+            "name": "Bernina"
+        },
+        {
+            "id": "58",
+            "name": "Block RockiT"
+        },
+        {
+            "id": "36",
+            "name": "Brother"
+        },
+        {
+            "id": "37",
+            "name": "Elna"
+        },
+        {
+            "id": "67",
+            "name": "Eversewn"
+        },
+        {
+            "id": "38",
+            "name": "Gammill"
+        },
+        {
+            "id": "57",
+            "name": "Handi Quilter"
+        },
+        {
+            "id": "39",
+            "name": "Hinterberg"
+        },
+        {
+            "id": "40",
+            "name": "Husqvarna"
+        },
+        {
+            "id": "41",
+            "name": "Innova"
+        },
+        {
+            "id": "42",
+            "name": "Janome"
+        },
+        {
+            "id": "43",
+            "name": "Juki"
+        },
+        {
+            "id": "44",
+            "name": "Ken Quilt"
+        },
+        {
+            "id": "45",
+            "name": "Kenmore"
+        },
+        {
+            "id": "66",
+            "name": "King Quilter"
+        },
+        {
+            "id": "59",
+            "name": "Martelli"
+        },
+        {
+            "id": "46",
+            "name": "Necchi"
+        },
+        {
+            "id": "47",
+            "name": "New Home"
+        },
+        {
+            "id": "48",
+            "name": "Nolting"
+        },
+        {
+            "id": "49",
+            "name": "Pfaff"
+        },
+        {
+            "id": "50",
+            "name": "Prodigy"
+        },
+        {
+            "id": "65",
+            "name": "Q\u0027nique"
+        },
+        {
+            "id": "51",
+            "name": "Riccar"
+        },
+        {
+            "id": "52",
+            "name": "Simplicity"
+        },
+        {
+            "id": "53",
+            "name": "Singer"
+        },
+        {
+            "id": "60",
+            "name": "Sunshine"
+        },
+        {
+            "id": "54",
+            "name": "Tin Lizzie"
+        },
+        {
+            "id": "55",
+            "name": "Viking"
+        },
+        {
+            "id": "56",
+            "name": "White"
+        }
+    ]
+}

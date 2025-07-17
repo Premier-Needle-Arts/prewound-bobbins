@@ -4,20 +4,6 @@ import BaseLayout from '../layouts/Layout.astro';
 
 <BaseLayout>
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
- 
-
-	
-</head>
-<body>
 
   <header>
     <h1>Prewound Bobbins</h1>
@@ -37,18 +23,22 @@ import BaseLayout from '../layouts/Layout.astro';
     </p>
   </section>
 
-  <section class= "prewounds">
-<img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" class="img-responsive">	<p>
-		Class 15 Prewounds 
-		</p>
+ <section class="prewounds">
+  <div class="prewound">
+    <img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" alt="Class 15">
+    <p>Class 15 Prewounds</p>
+  </div>
 
-<img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" class="img-responsive">		<p>
-		L-Style Prewounds 
-		</p>
-<img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="Class 15 prewounds" class="img-responsive">		<p>
-		M-Style Prewounds 
-		</p>
-	</section>
+  <div class="prewound">
+    <img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="L-Style prewounds" alt="L-Style">
+    <p>L-Style Prewounds</p>
+  </div>
+
+  <div class="prewound">
+    <img src="https://cdn.superiorthreads.com/bobbinfinder/images/bobbin-mstyle.jpg" title="M-Style prewounds" alt="M-Style">
+    <p>M-Style Prewounds</p>
+  </div>
+</section>
  
 
   <section class="bottom">
@@ -1940,6 +1930,6 @@ import BaseLayout from '../layouts/Layout.astro';
     <a href="https://www.superiorthreads.com/education/matching-bobbin-thread">Matching top and bobbin thread</a>
     <a href="https://www.superiorthreads.com/education/bobbin-tension-adjusted">When should bobbin tension be adjusted?</a>
   </div>
-</body>
+
 </BaseLayout>
-</html>
+

@@ -1,0 +1,424 @@
+{
+    "styles": [
+        {
+            "id": "",
+            "name": "M Style",
+            "model": "568"
+        },
+        {
+            "id": "",
+            "name": "M Style",
+            "model": "569"
+        },
+         {
+            "id": "",
+            "model": " 570",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 571",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 572",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 573",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 574",
+            "name": "M Style"
+        },
+        {
+           "id": "33",
+            "model": " 575",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 1621",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 1620",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 576",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 577",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 578",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 579",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 2385",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 2386",
+            "name": "L Style"
+        },
+        {
+            "id": "33",
+            "model": " 2316",
+            "name": "M Style"
+        },
+        {
+            "id": "33",
+            "model": " 2315",
+            "name": "L Style"
+        },
+        {
+      "id": "34",
+      "model": " 1625",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1522",
+      "name": "L Style"
+    },
+    {
+      "id": "34",
+      "model": " 1703",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 580",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 581",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 582",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1599",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 2333",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1702",
+      "name": "L Style"
+    },
+    {
+      "id": "34",
+      "model": " 583",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1624",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 2419",
+      "name": "M Style"
+    },
+    {
+      "id": "34",
+      "model": " 584",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1622",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 585",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 586",
+      "name": "M Style"
+    },
+    {
+      "id": "34",
+      "model": " 587",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1623",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1523",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 588",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 589",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 590",
+      "name": "L Style"
+    },
+    {
+      "id": "34",
+      "model": " 591",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1699",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 592",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 1671",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 593",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 594",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 595",
+      "name": "L Style"
+    },
+    {
+      "id": "34",
+      "model": " 596",
+      "name": "Class 15"
+    },
+    {
+      "id": "34",
+      "model": " 597",
+      "name": "L Style"
+    },
+    {
+      "id": "34",
+      "model": " 598",
+      "name": "EMORE"
+    },
+    {
+      "id": "34",
+      "model": " 599",
+      "name": "Encore"
+    },
+    {
+      "id": "34",
+      "model": " 600",
+      "name": "Endurance 6 needle"
+    },
+    {
+      "id": "34",
+      "model": " 2350",
+      "name": "Endurance II"
+    },
+    {
+      "id": "34",
+      "model": " 601",
+      "name": "Enterprise 10-needle"
+    },
+    {
+      "id": "34",
+      "model": " 602",
+      "name": "Esante (BLN, BLN2)"
+    },
+    {
+      "id": "34",
+      "model": " 603",
+      "name": "Esante (ESI, ESI2, ESE, ESE2)"
+    },
+    {
+      "id": "34",
+      "model": " 604",
+      "name": "Espire"
+    },
+    {
+      "id": "34",
+      "model": " 2371",
+      "name": "Flourish"
+    },
+    {
+      "id": "34",
+      "model": " 605",
+      "name": "Grace"
+    },
+    {
+      "id": "34",
+      "model": " 606",
+      "name": "Intrique"
+    },
+    {
+      "id": "34",
+      "model": " 607",
+      "name": "Jane"
+    },
+    {
+      "id": "34",
+      "model": " 2353",
+      "name": "Jewel"
+    },
+    {
+      "id": "34",
+      "model": " 608",
+      "name": "Journey"
+    },
+    {
+      "id": "34",
+      "model": " 2336",
+      "name": "Katherine"
+    },
+    {
+      "id": "34",
+      "model": " 2338",
+      "name": "Lyric"
+    },
+    {
+      "id": "34",
+      "model": " 1626",
+      "name": "Maria"
+    },
+    {
+      "id": "34",
+      "model": " 609",
+      "name": "Melody"
+    },
+    {
+      "id": "34",
+      "model": " 610",
+      "name": "Molly"
+    },
+    {
+      "id": "34",
+      "model": " 611",
+      "name": "Quest"
+    },
+    {
+      "id": "34",
+      "model": " 1642",
+      "name": "Quest Plus"
+    },
+    {
+      "id": "34",
+      "model": " 612",
+      "name": "Quilter\u0027s Choice (BLQC)"
+    },
+    {
+      "id": "34",
+      "model": " 613",
+      "name": "Quilter\u0027s Choice (BLQC2)"
+    },
+    {
+      "id": "34",
+      "model": " 614",
+      "name": "Quilter\u0027s Choice Pro (BLQP)"
+    },
+    {
+      "id": "34",
+      "model": " 615",
+      "name": "Rachel"
+    },
+    {
+      "id": "34",
+      "model": " 616",
+      "name": "Sashiko/Sashiko2"
+    },
+    {
+      "id": "34",
+      "model": " 617",
+      "name": "Serenade"
+    },
+    {
+      "id": "34",
+      "model": " 618",
+      "name": "Sofia/Sofia2"
+    },
+    {
+      "id": "34",
+      "model": " 2337",
+      "name": "Soprano"
+    },
+    {
+      "id": "34",
+      "model": " 619",
+      "name": "Spirit"
+    },
+    {
+      "id": "34",
+      "model": " 620",
+      "name": "Symphony"
+    },
+    {
+      "id": "34",
+      "model": " 621",
+      "name": "Tempo"
+    },
+    {
+      "id": "34",
+      "model": " 622",
+      "name": "Tiara"
+    },
+    {
+      "id": "34",
+      "model": " 2366",
+      "name": "Tiara II"
+    },
+    {
+      "id": "34",
+      "model": " 623",
+      "name": "Unity"
+    },
+    ]
+}
